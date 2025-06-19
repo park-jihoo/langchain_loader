@@ -1,0 +1,684 @@
+{"Player":"Kevin De Bruyne","Nation":"BEL","Position":"MF,FW","Team":"Manchester City","Age":33,"Weekly":488501,"Annual":25402046}
+{"Player":"Erling Haaland","Nation":"NOR","Position":"FW","Team":"Manchester City","Age":24,"Weekly":457970,"Annual":23814418}
+{"Player":"Casemiro","Nation":"BRA","Position":"MF","Team":"Manchester Utd","Age":32,"Weekly":427438,"Annual":22226790}
+{"Player":"Mohamed Salah","Nation":"EGY","Position":"FW","Team":"Liverpool","Age":32,"Weekly":427438,"Annual":22226790}
+{"Player":"Bruno Fernandes","Nation":"POR","Position":"MF","Team":"Manchester Utd","Age":29,"Weekly":366376,"Annual":19051534}
+{"Player":"Marcus Rashford","Nation":"ENG","Position":"FW,MF","Team":"Manchester Utd","Age":26,"Weekly":366376,"Annual":19051534}
+{"Player":"Bernardo Silva","Nation":"POR","Position":"MF,FW","Team":"Manchester City","Age":29,"Weekly":366376,"Annual":19051534}
+{"Player":"Jack Grealish","Nation":"ENG","Position":"FW,MF","Team":"Manchester City","Age":28,"Weekly":366376,"Annual":19051534}
+{"Player":"Omar Marmoush","Nation":"EGY","Position":"FW,MF","Team":"Manchester City","Age":25,"Weekly":396024,"Annual":20593224}
+{"Player":"Kai Havertz","Nation":"GER","Position":"FW,MF","Team":"Arsenal","Age":25,"Weekly":341951,"Annual":17781432}
+{"Player":"Gabriel Jesus","Nation":"BRA","Position":"FW","Team":"Arsenal","Age":27,"Weekly":323632,"Annual":16828855}
+{"Player":"Mason Mount","Nation":"ENG","Position":"MF","Team":"Manchester Utd","Age":25,"Weekly":305313,"Annual":15876279}
+{"Player":"John Stones","Nation":"ENG","Position":"DF,MF","Team":"Manchester City","Age":30,"Weekly":305313,"Annual":15876279}
+{"Player":"Reece James","Nation":"ENG","Position":"DF,MF","Team":"Chelsea","Age":24,"Weekly":305313,"Annual":15876279}
+{"Player":"Declan Rice","Nation":"ENG","Position":"MF","Team":"Arsenal","Age":25,"Weekly":293101,"Annual":15241227}
+{"Player":"Martin \u00d8degaard","Nation":"NOR","Position":"MF","Team":"Arsenal","Age":25,"Weekly":293101,"Annual":15241227}
+{"Player":"\u0130lkay G\u00fcndo\u011fan","Nation":"GER","Position":"MF","Team":"Manchester City","Age":33,"Weekly":280888,"Annual":14606176}
+{"Player":"Phil Foden","Nation":"ENG","Position":"MF,FW","Team":"Manchester City","Age":24,"Weekly":274782,"Annual":14288651}
+{"Player":"Virgil van Dijk","Nation":"NED","Position":"DF","Team":"Liverpool","Age":33,"Weekly":268675,"Annual":13971125}
+{"Player":"Rodri","Nation":"ESP","Position":"MF","Team":"Manchester City","Age":28,"Weekly":268675,"Annual":13971125}
+{"Player":"Thomas Partey","Nation":"GHA","Position":"MF,DF","Team":"Arsenal","Age":31,"Weekly":244250,"Annual":12701023}
+{"Player":"Antony","Nation":"BRA","Position":"DF,MF","Team":"Manchester Utd","Age":24,"Weekly":244250,"Annual":12701023}
+{"Player":"Jo\u0161ko Gvardiol","Nation":"CRO","Position":"DF","Team":"Manchester City","Age":22,"Weekly":244250,"Annual":12701023}
+{"Player":"Wesley Fofana","Nation":"FRA","Position":"DF","Team":"Chelsea","Age":23,"Weekly":244250,"Annual":12701023}
+{"Player":"Bukayo Saka","Nation":"ENG","Position":"FW,MF","Team":"Arsenal","Age":22,"Weekly":238144,"Annual":12383497}
+{"Player":"Matthijs de Ligt","Nation":"NED","Position":"DF","Team":"Manchester Utd","Age":24,"Weekly":238144,"Annual":12383497}
+{"Player":"Christopher Nkunku","Nation":"FRA","Position":"FW","Team":"Chelsea","Age":26,"Weekly":238144,"Annual":12383497}
+{"Player":"William Saliba","Nation":"FRA","Position":"DF","Team":"Arsenal","Age":23,"Weekly":232038,"Annual":12065972}
+{"Player":"Harry Maguire","Nation":"ENG","Position":"DF","Team":"Manchester Utd","Age":31,"Weekly":232038,"Annual":12065972}
+{"Player":"Son Heung-min","Nation":"KOR","Position":"FW","Team":"Tottenham","Age":32,"Weekly":232038,"Annual":12065972}
+{"Player":"Gabriel Martinelli","Nation":"BRA","Position":"FW,MF","Team":"Arsenal","Age":23,"Weekly":219825,"Annual":11430921}
+{"Player":"Trent Alexander-Arnold","Nation":"ENG","Position":"DF","Team":"Liverpool","Age":25,"Weekly":219825,"Annual":11430921}
+{"Player":"Manuel Akanji","Nation":"SUI","Position":"DF","Team":"Manchester City","Age":29,"Weekly":219825,"Annual":11430921}
+{"Player":"R\u00faben Dias","Nation":"POR","Position":"DF","Team":"Manchester City","Age":27,"Weekly":219825,"Annual":11430921}
+{"Player":"Enzo Fern\u00e1ndez","Nation":"ARG","Position":"MF","Team":"Chelsea","Age":23,"Weekly":219825,"Annual":11430921}
+{"Player":"Kyle Walker","Nation":"ENG","Position":"DF","Team":"Manchester City","Age":34,"Weekly":213719,"Annual":11113395}
+{"Player":"Marc Cucurella","Nation":"ESP","Position":"DF","Team":"Chelsea","Age":26,"Weekly":213719,"Annual":11113395}
+{"Player":"James Maddison","Nation":"ENG","Position":"MF","Team":"Tottenham","Age":27,"Weekly":207613,"Annual":10795869}
+{"Player":"Cristian Romero","Nation":"ARG","Position":"DF","Team":"Tottenham","Age":26,"Weekly":201507,"Annual":10478344}
+{"Player":"Timo Werner","Nation":"GER","Position":"FW,MF","Team":"Tottenham","Age":28,"Weekly":201507,"Annual":10478344}
+{"Player":"Andrew Robertson","Nation":"SCO","Position":"DF","Team":"Liverpool","Age":30,"Weekly":195400,"Annual":10160818}
+{"Player":"Bruno Guimar\u00e3es","Nation":"BRA","Position":"MF","Team":"Newcastle Utd","Age":26,"Weekly":195400,"Annual":10160818}
+{"Player":"Nathan Ak\u00e9","Nation":"NED","Position":"DF","Team":"Manchester City","Age":29,"Weekly":195400,"Annual":10160818}
+{"Player":"Pedro Neto","Nation":"POR","Position":"FW","Team":"Chelsea","Age":24,"Weekly":195400,"Annual":10160818}
+{"Player":"Kalvin Phillips","Nation":"ENG","Position":"MF","Team":"Ipswich Town","Age":28,"Weekly":201368,"Annual":10471131}
+{"Player":"Ben White","Nation":"ENG","Position":"DF","Team":"Arsenal","Age":26,"Weekly":183188,"Annual":9525767}
+{"Player":"Oleksandr Zinchenko","Nation":"UKR","Position":"DF,MF","Team":"Arsenal","Age":27,"Weekly":183188,"Annual":9525767}
+{"Player":"Christian Eriksen","Nation":"DEN","Position":"MF","Team":"Manchester Utd","Age":32,"Weekly":183188,"Annual":9525767}
+{"Player":"Jadon Sancho","Nation":"ENG","Position":"LW","Team":"Manchester Utd","Age":24,"Weekly":183188,"Annual":9525767}
+{"Player":"Luke Shaw","Nation":"ENG","Position":"DF","Team":"Manchester Utd","Age":29,"Weekly":183188,"Annual":9525767}
+{"Player":"Jarrod Bowen","Nation":"ENG","Position":"FW,MF","Team":"West Ham","Age":27,"Weekly":183188,"Annual":9525767}
+{"Player":"Lucas Paquet\u00e1","Nation":"BRA","Position":"MF,FW","Team":"West Ham","Age":26,"Weekly":183188,"Annual":9525767}
+{"Player":"Alexis Mac Allister","Nation":"ARG","Position":"MF","Team":"Liverpool","Age":25,"Weekly":183188,"Annual":9525767}
+{"Player":"Alisson","Nation":"BRA","Position":"GK","Team":"Liverpool","Age":31,"Weekly":183188,"Annual":9525767}
+{"Player":"Federico Chiesa","Nation":"ITA","Position":"FW","Team":"Liverpool","Age":26,"Weekly":183188,"Annual":9525767}
+{"Player":"Ryan Gravenberch","Nation":"NED","Position":"MF","Team":"Liverpool","Age":22,"Weekly":183188,"Annual":9525767}
+{"Player":"Boubacar Kamara","Nation":"FRA","Position":"MF","Team":"Aston Villa","Age":24,"Weekly":183188,"Annual":9525767}
+{"Player":"Emiliano Mart\u00ednez","Nation":"ARG","Position":"GK","Team":"Aston Villa","Age":31,"Weekly":183188,"Annual":9525767}
+{"Player":"Youri Tielemans","Nation":"BEL","Position":"MF","Team":"Aston Villa","Age":27,"Weekly":183188,"Annual":9525767}
+{"Player":"Anthony Gordon","Nation":"ENG","Position":"FW,MF","Team":"Newcastle Utd","Age":23,"Weekly":183188,"Annual":9525767}
+{"Player":"Joelinton","Nation":"BRA","Position":"MF,FW","Team":"Newcastle Utd","Age":27,"Weekly":183188,"Annual":9525767}
+{"Player":"Lloyd Kelly","Nation":"ENG","Position":"DF","Team":"Newcastle Utd","Age":25,"Weekly":183188,"Annual":9525767}
+{"Player":"Mateo Kova\u010di\u0107","Nation":"CRO","Position":"MF","Team":"Manchester City","Age":30,"Weekly":183188,"Annual":9525767}
+{"Player":"Mois\u00e9s Caicedo","Nation":"ECU","Position":"MF,DF","Team":"Chelsea","Age":22,"Weekly":183188,"Annual":9525767}
+{"Player":"Donyell Malen","Nation":"NED","Position":"FW","Team":"Aston Villa","Age":25,"Weekly":187943,"Annual":9773056}
+{"Player":"Darwin N\u00fa\u00f1ez","Nation":"URU","Position":"FW","Team":"Liverpool","Age":25,"Weekly":170975,"Annual":8890716}
+{"Player":"Diogo Jota","Nation":"POR","Position":"FW","Team":"Liverpool","Age":27,"Weekly":170975,"Annual":8890716}
+{"Player":"Amadou Onana","Nation":"BEL","Position":"MF","Team":"Aston Villa","Age":22,"Weekly":170975,"Annual":8890716}
+{"Player":"Jamie Vardy","Nation":"ENG","Position":"FW","Team":"Leicester City","Age":37,"Weekly":170975,"Annual":8890716}
+{"Player":"Noussair Mazraoui","Nation":"MAR","Position":"DF","Team":"Manchester Utd","Age":26,"Weekly":164869,"Annual":8573190}
+{"Player":"Mikel Merino","Nation":"ESP","Position":"MF,FW","Team":"Arsenal","Age":28,"Weekly":158763,"Annual":8255665}
+{"Player":"Ollie Watkins","Nation":"ENG","Position":"FW","Team":"Aston Villa","Age":28,"Weekly":158763,"Annual":8255665}
+{"Player":"Matheus Nunes","Nation":"POR","Position":"DF,MF","Team":"Manchester City","Age":25,"Weekly":158763,"Annual":8255665}
+{"Player":"Cole Palmer","Nation":"ENG","Position":"MF","Team":"Chelsea","Age":22,"Weekly":158763,"Annual":8255665}
+{"Player":"Jo\u00e3o F\u00e9lix","Nation":"POR","Position":"FW,MF","Team":"Chelsea","Age":24,"Weekly":158763,"Annual":8255665}
+{"Player":"Abdoulaye Doucour\u00e9","Nation":"MLI","Position":"MF","Team":"Everton","Age":31,"Weekly":158763,"Annual":8255665}
+{"Player":"Bernd Leno","Nation":"GER","Position":"GK","Team":"Fulham","Age":32,"Weekly":158763,"Annual":8255665}
+{"Player":"Danny Ings","Nation":"ENG","Position":"FW,MF","Team":"West Ham","Age":32,"Weekly":152657,"Annual":7938139}
+{"Player":"Jordan Pickford","Nation":"ENG","Position":"GK","Team":"Everton","Age":30,"Weekly":152657,"Annual":7938139}
+{"Player":"Riccardo Calafiori","Nation":"ITA","Position":"DF","Team":"Arsenal","Age":22,"Weekly":146550,"Annual":7620614}
+{"Player":"Andr\u00e9 Onana","Nation":"CMR","Position":"GK","Team":"Manchester Utd","Age":28,"Weekly":146550,"Annual":7620614}
+{"Player":"Lisandro Mart\u00ednez","Nation":"ARG","Position":"DF","Team":"Manchester Utd","Age":26,"Weekly":146550,"Annual":7620614}
+{"Player":"Manuel Ugarte","Nation":null,"Position":"DM","Team":"Manchester Utd","Age":23,"Weekly":146550,"Annual":7620614}
+{"Player":"Victor Lindel\u00f6f","Nation":"SWE","Position":"DF","Team":"Manchester Utd","Age":30,"Weekly":146550,"Annual":7620614}
+{"Player":"Aaron Ramsdale","Nation":"ENG","Position":"GK","Team":"Southampton","Age":26,"Weekly":146550,"Annual":7620614}
+{"Player":"Alphonse Areola","Nation":"FRA","Position":"GK","Team":"West Ham","Age":31,"Weekly":146550,"Annual":7620614}
+{"Player":"Cody Gakpo","Nation":"NED","Position":"FW","Team":"Liverpool","Age":25,"Weekly":146550,"Annual":7620614}
+{"Player":"Dominik Szoboszlai","Nation":"HUN","Position":"MF","Team":"Liverpool","Age":23,"Weekly":146550,"Annual":7620614}
+{"Player":"John McGinn","Nation":"SCO","Position":"MF,FW","Team":"Aston Villa","Age":29,"Weekly":146550,"Annual":7620614}
+{"Player":"Leon Bailey","Nation":"JAM","Position":"FW,MF","Team":"Aston Villa","Age":26,"Weekly":146550,"Annual":7620614}
+{"Player":"Lucas Digne","Nation":"FRA","Position":"DF","Team":"Aston Villa","Age":31,"Weekly":146550,"Annual":7620614}
+{"Player":"Alexander Isak","Nation":"SWE","Position":"FW","Team":"Newcastle Utd","Age":24,"Weekly":146550,"Annual":7620614}
+{"Player":"Kieran Trippier","Nation":"ENG","Position":"DF","Team":"Newcastle Utd","Age":33,"Weekly":146550,"Annual":7620614}
+{"Player":"Sandro Tonali","Nation":"ITA","Position":"MF","Team":"Newcastle Utd","Age":24,"Weekly":146550,"Annual":7620614}
+{"Player":"Tosin Adarabioyo","Nation":"ENG","Position":"DF","Team":"Chelsea","Age":26,"Weekly":146550,"Annual":7620614}
+{"Player":"Idrissa Gana Gueye","Nation":"SEN","Position":"MF","Team":"Everton","Age":34,"Weekly":146550,"Annual":7620614}
+{"Player":"Marco Asensio","Nation":"ESP","Position":"MF","Team":"Aston Villa","Age":28,"Weekly":156396,"Annual":8132578}
+{"Player":"James Ward-Prowse","Nation":"ENG","Position":"MF","Team":"West Ham","Age":29,"Weekly":154382,"Annual":8027867}
+{"Player":"Leny Yoro","Nation":null,"Position":"CB","Team":"Manchester Utd","Age":19,"Weekly":140444,"Annual":7303088}
+{"Player":"Raheem Sterling","Nation":"ENG","Position":"FW,MF","Team":"Arsenal","Age":29,"Weekly":147670,"Annual":7678829}
+{"Player":"Jorginho","Nation":"ITA","Position":"MF","Team":"Arsenal","Age":32,"Weekly":134338,"Annual":6985563}
+{"Player":"Kieran Tierney","Nation":"SCO","Position":"DF,FW","Team":"Arsenal","Age":27,"Weekly":134338,"Annual":6985563}
+{"Player":"Dejan Kulusevski","Nation":"SWE","Position":"MF,FW","Team":"Tottenham","Age":24,"Weekly":134338,"Annual":6985563}
+{"Player":"Joshua Zirkzee","Nation":"NED","Position":"FW,MF","Team":"Manchester Utd","Age":23,"Weekly":128231,"Annual":6668037}
+{"Player":"Daichi Kamada","Nation":"JPN","Position":"MF","Team":"Crystal Palace","Age":27,"Weekly":128231,"Annual":6668037}
+{"Player":"Nikola Milenkovi\u0107","Nation":"SRB","Position":"DF","Team":"Nott'ham Forest","Age":26,"Weekly":128231,"Annual":6668037}
+{"Player":"Ben Chilwell","Nation":"ENG","Position":"DF","Team":"Crystal Palace","Age":27,"Weekly":134245,"Annual":6980754}
+{"Player":"David Raya","Nation":"ESP","Position":"GK","Team":"Arsenal","Age":28,"Weekly":122125,"Annual":6350511}
+{"Player":"Gabriel Magalh\u00e3es","Nation":"BRA","Position":"DF","Team":"Arsenal","Age":26,"Weekly":122125,"Annual":6350511}
+{"Player":"Takehiro Tomiyasu","Nation":"JPN","Position":"DF","Team":"Arsenal","Age":25,"Weekly":122125,"Annual":6350511}
+{"Player":"Dean Henderson","Nation":"ENG","Position":"GK","Team":"Crystal Palace","Age":27,"Weekly":122125,"Annual":6350511}
+{"Player":"Eberechi Eze","Nation":"ENG","Position":"MF,FW","Team":"Crystal Palace","Age":26,"Weekly":122125,"Annual":6350511}
+{"Player":"Edson \u00c1lvarez","Nation":"MEX","Position":"MF","Team":"West Ham","Age":26,"Weekly":122125,"Annual":6350511}
+{"Player":"Max Kilman","Nation":"ENG","Position":"DF","Team":"West Ham","Age":27,"Weekly":122125,"Annual":6350511}
+{"Player":"Diego Carlos","Nation":"BRA","Position":"DF","Team":"Aston Villa","Age":31,"Weekly":122125,"Annual":6350511}
+{"Player":"Ian Maatsen","Nation":"NED","Position":"DF","Team":"Aston Villa","Age":22,"Weekly":122125,"Annual":6350511}
+{"Player":"Pau Torres","Nation":"ESP","Position":"DF","Team":"Aston Villa","Age":27,"Weekly":122125,"Annual":6350511}
+{"Player":"Tyrone Mings","Nation":"ENG","Position":"DF","Team":"Aston Villa","Age":31,"Weekly":122125,"Annual":6350511}
+{"Player":"Matt Targett","Nation":"ENG","Position":"DF","Team":"Newcastle Utd","Age":28,"Weekly":122125,"Annual":6350511}
+{"Player":"Ederson","Nation":"BRA","Position":"GK","Team":"Manchester City","Age":30,"Weekly":122125,"Annual":6350511}
+{"Player":"Carney Chukwuemeka","Nation":"ENG","Position":"CM","Team":"Chelsea","Age":20,"Weekly":122125,"Annual":6350511}
+{"Player":"Levi Colwill","Nation":"ENG","Position":"DF","Team":"Chelsea","Age":21,"Weekly":122125,"Annual":6350511}
+{"Player":"Mykhailo Mudryk","Nation":"UKR","Position":"FW","Team":"Chelsea","Age":23,"Weekly":122125,"Annual":6350511}
+{"Player":"Nicolas Jackson","Nation":"SEN","Position":"FW","Team":"Chelsea","Age":23,"Weekly":122125,"Annual":6350511}
+{"Player":"Dominic Calvert-Lewin","Nation":"ENG","Position":"FW","Team":"Everton","Age":27,"Weekly":122125,"Annual":6350511}
+{"Player":"James Tarkowski","Nation":"ENG","Position":"DF","Team":"Everton","Age":31,"Weekly":122125,"Annual":6350511}
+{"Player":"Ra\u00fal Jim\u00e9nez","Nation":"MEX","Position":"FW","Team":"Fulham","Age":33,"Weekly":122125,"Annual":6350511}
+{"Player":"Reiss Nelson","Nation":"ENG","Position":"FW","Team":"Fulham","Age":24,"Weekly":122125,"Annual":6350511}
+{"Player":"Emerson Palmieri","Nation":"ITA","Position":"DF","Team":"West Ham","Age":29,"Weekly":116019,"Annual":6032986}
+{"Player":"Jurri\u00ebn Timber","Nation":"NED","Position":"DF","Team":"Arsenal","Age":23,"Weekly":109913,"Annual":5715460}
+{"Player":"Leandro Trossard","Nation":"BEL","Position":"FW","Team":"Arsenal","Age":29,"Weekly":109913,"Annual":5715460}
+{"Player":"Dominic Solanke","Nation":"ENG","Position":"FW","Team":"Tottenham","Age":26,"Weekly":109913,"Annual":5715460}
+{"Player":"Richarlison","Nation":"BRA","Position":"FW","Team":"Tottenham","Age":27,"Weekly":109913,"Annual":5715460}
+{"Player":"Eddie Nketiah","Nation":"ENG","Position":"FW,MF","Team":"Crystal Palace","Age":25,"Weekly":109913,"Annual":5715460}
+{"Player":"Aaron Wan-Bissaka","Nation":"ENG","Position":"DF","Team":"West Ham","Age":26,"Weekly":109913,"Annual":5715460}
+{"Player":"Mohammed Kudus","Nation":null,"Position":"AM","Team":"West Ham","Age":24,"Weekly":109913,"Annual":5715460}
+{"Player":"Niclas F\u00fcllkrug","Nation":"GER","Position":"FW","Team":"West Ham","Age":31,"Weekly":109913,"Annual":5715460}
+{"Player":"Tom\u00e1\u0161 Sou\u010dek","Nation":"CZE","Position":"MF","Team":"West Ham","Age":29,"Weekly":109913,"Annual":5715460}
+{"Player":"Gon\u00e7alo Guedes","Nation":"POR","Position":"MF,FW","Team":"Wolves","Age":27,"Weekly":109913,"Annual":5715460}
+{"Player":"Pablo Sarabia","Nation":"ESP","Position":"MF,FW","Team":"Wolves","Age":32,"Weekly":109913,"Annual":5715460}
+{"Player":"Harry Winks","Nation":"ENG","Position":"MF","Team":"Leicester City","Age":28,"Weekly":109913,"Annual":5715460}
+{"Player":"Odsonne \u00c9douard","Nation":"FRA","Position":"FW","Team":"Leicester City","Age":26,"Weekly":109913,"Annual":5715460}
+{"Player":"Sven Botman","Nation":"NED","Position":"DF","Team":"Newcastle Utd","Age":24,"Weekly":109913,"Annual":5715460}
+{"Player":"Stefan Ortega","Nation":"GER","Position":"GK","Team":"Manchester City","Age":31,"Weekly":109913,"Annual":5715460}
+{"Player":"Beno\u00eet Badiashile","Nation":"FRA","Position":"DF","Team":"Chelsea","Age":23,"Weekly":109913,"Annual":5715460}
+{"Player":"Jack Harrison","Nation":"ENG","Position":"FW","Team":"Everton","Age":27,"Weekly":109913,"Annual":5715460}
+{"Player":"Joachim Andersen","Nation":"DEN","Position":"DF","Team":"Fulham","Age":28,"Weekly":109913,"Annual":5715460}
+{"Player":"Leander Dendoncker","Nation":"BEL","Position":"DM","Team":"Aston Villa","Age":29,"Weekly":117817,"Annual":6126483}
+{"Player":"Willian","Nation":"BRA","Position":"FW,MF","Team":"Fulham","Age":35,"Weekly":117817,"Annual":6126483}
+{"Player":"Ferdi Kadioglu","Nation":"TUR","Position":"DF,MF","Team":"Brighton","Age":24,"Weekly":106860,"Annual":5556698}
+{"Player":"Diogo Dalot","Nation":"POR","Position":"DF","Team":"Manchester Utd","Age":25,"Weekly":103806,"Annual":5397935}
+{"Player":"Rasmus H\u00f8jlund","Nation":"DEN","Position":"FW","Team":"Manchester Utd","Age":21,"Weekly":103806,"Annual":5397935}
+{"Player":"Pedro Porro","Nation":"ESP","Position":"DF","Team":"Tottenham","Age":24,"Weekly":103806,"Annual":5397935}
+{"Player":"Radu Dr\u0103gu\u0219in","Nation":"ROU","Position":"DF","Team":"Tottenham","Age":22,"Weekly":103806,"Annual":5397935}
+{"Player":"Evanilson","Nation":"BRA","Position":"FW","Team":"Bournemouth","Age":24,"Weekly":103806,"Annual":5397935}
+{"Player":"Michail Antonio","Nation":"JAM","Position":"FW","Team":"West Ham","Age":34,"Weekly":103806,"Annual":5397935}
+{"Player":"Joe Gomez","Nation":"ENG","Position":"DF","Team":"Liverpool","Age":27,"Weekly":103806,"Annual":5397935}
+{"Player":"Mathys Tel","Nation":"FRA","Position":"FW","Team":"Tottenham","Age":19,"Weekly":107396,"Annual":5584603}
+{"Player":"Ben Davies","Nation":"WAL","Position":"DF","Team":"Tottenham","Age":31,"Weekly":97700,"Annual":5080409}
+{"Player":"Justin Kluivert","Nation":"NED","Position":"MF,FW","Team":"Bournemouth","Age":25,"Weekly":97700,"Annual":5080409}
+{"Player":"Carlos Soler","Nation":"ESP","Position":"MF,FW","Team":"West Ham","Age":27,"Weekly":97700,"Annual":5080409}
+{"Player":"Matty Cash","Nation":"POL","Position":"DF","Team":"Aston Villa","Age":26,"Weekly":97700,"Annual":5080409}
+{"Player":"N\u00e9lson Semedo","Nation":"POR","Position":"DF","Team":"Wolves","Age":30,"Weekly":97700,"Annual":5080409}
+{"Player":"Boubakary Soumar\u00e9","Nation":"FRA","Position":"MF","Team":"Leicester City","Age":25,"Weekly":97700,"Annual":5080409}
+{"Player":"Ricardo Pereira","Nation":"POR","Position":"DF","Team":"Leicester City","Age":30,"Weekly":97700,"Annual":5080409}
+{"Player":"Harvey Barnes","Nation":"ENG","Position":"FW","Team":"Newcastle Utd","Age":26,"Weekly":97700,"Annual":5080409}
+{"Player":"Joe Willock","Nation":"ENG","Position":"MF,FW","Team":"Newcastle Utd","Age":24,"Weekly":97700,"Annual":5080409}
+{"Player":"Kiernan Dewsbury-Hall","Nation":"ENG","Position":"MF,FW","Team":"Chelsea","Age":25,"Weekly":97700,"Annual":5080409}
+{"Player":"Kaoru Mitoma","Nation":"JPN","Position":"FW,MF","Team":"Brighton","Age":27,"Weekly":97700,"Annual":5080409}
+{"Player":"Lewis Dunk","Nation":"ENG","Position":"DF","Team":"Brighton","Age":32,"Weekly":97700,"Annual":5080409}
+{"Player":"Michael Keane","Nation":"ENG","Position":"DF","Team":"Everton","Age":31,"Weekly":97700,"Annual":5080409}
+{"Player":"Callum Hudson-Odoi","Nation":"ENG","Position":"FW,MF","Team":"Nott'ham Forest","Age":23,"Weekly":97700,"Annual":5080409}
+{"Player":"Chris Wood","Nation":"NZL","Position":"FW","Team":"Nott'ham Forest","Age":32,"Weekly":97700,"Annual":5080409}
+{"Player":"Morgan Gibbs-White","Nation":"ENG","Position":"MF","Team":"Nott'ham Forest","Age":24,"Weekly":97700,"Annual":5080409}
+{"Player":"Alex Iwobi","Nation":"NGA","Position":"FW,MF","Team":"Fulham","Age":28,"Weekly":97700,"Annual":5080409}
+{"Player":"Ben Godfrey","Nation":"ENG","Position":"DF","Team":"Ipswich Town","Age":26,"Weekly":100684,"Annual":5235566}
+{"Player":"Tyrell Malacia","Nation":"NED","Position":"DF","Team":"Manchester Utd","Age":24,"Weekly":91594,"Annual":4762884}
+{"Player":"Archie Gray","Nation":null,"Position":"CM","Team":"Tottenham","Age":18,"Weekly":91594,"Annual":4762884}
+{"Player":"Destiny Udogie","Nation":"ITA","Position":"DF","Team":"Tottenham","Age":21,"Weekly":91594,"Annual":4762884}
+{"Player":"Fraser Forster","Nation":"ENG","Position":"GK","Team":"Tottenham","Age":36,"Weekly":91594,"Annual":4762884}
+{"Player":"Guglielmo Vicario","Nation":"ITA","Position":"GK","Team":"Tottenham","Age":27,"Weekly":91594,"Annual":4762884}
+{"Player":"Rodrigo Bentancur","Nation":"URU","Position":"MF","Team":"Tottenham","Age":27,"Weekly":91594,"Annual":4762884}
+{"Player":"Kepa Arrizabalaga","Nation":"ESP","Position":"GK","Team":"Bournemouth","Age":29,"Weekly":91594,"Annual":4762884}
+{"Player":"Guido Rodr\u00edguez","Nation":"ARG","Position":"MF","Team":"West Ham","Age":30,"Weekly":91594,"Annual":4762884}
+{"Player":"Kostas Tsimikas","Nation":"GRE","Position":"DF","Team":"Liverpool","Age":28,"Weekly":91594,"Annual":4762884}
+{"Player":"Emi Buend\u00eda","Nation":"ARG","Position":"MF,FW","Team":"Aston Villa","Age":27,"Weekly":91594,"Annual":4762884}
+{"Player":"Ezri Konsa","Nation":"ENG","Position":"DF","Team":"Aston Villa","Age":26,"Weekly":91594,"Annual":4762884}
+{"Player":"J\u00e1der Dur\u00e1n","Nation":"COL","Position":"FW","Team":"Aston Villa","Age":20,"Weekly":91594,"Annual":4762884}
+{"Player":"Morgan Rogers","Nation":"ENG","Position":"FW,MF","Team":"Aston Villa","Age":22,"Weekly":91594,"Annual":4762884}
+{"Player":"Conor Coady","Nation":"ENG","Position":"DF","Team":"Leicester City","Age":31,"Weekly":91594,"Annual":4762884}
+{"Player":"Patson Daka","Nation":"ZAM","Position":"FW,MF","Team":"Leicester City","Age":25,"Weekly":91594,"Annual":4762884}
+{"Player":"Wilfred Ndidi","Nation":"NGA","Position":"MF","Team":"Leicester City","Age":27,"Weekly":91594,"Annual":4762884}
+{"Player":"Georginio Rutter","Nation":"FRA","Position":"MF,FW","Team":"Brighton","Age":22,"Weekly":91594,"Annual":4762884}
+{"Player":"Ibrahim Sangar\u00e9","Nation":"CIV","Position":"MF","Team":"Nott'ham Forest","Age":26,"Weekly":91594,"Annual":4762884}
+{"Player":"Jan Bednarek","Nation":"POL","Position":"DF","Team":"Southampton","Age":28,"Weekly":85488,"Annual":4445358}
+{"Player":"Joe Aribo","Nation":"NGA","Position":"MF,DF","Team":"Southampton","Age":28,"Weekly":85488,"Annual":4445358}
+{"Player":"Brennan Johnson","Nation":"WAL","Position":"FW","Team":"Tottenham","Age":23,"Weekly":85488,"Annual":4445358}
+{"Player":"Pape Matar Sarr","Nation":"SEN","Position":"MF","Team":"Tottenham","Age":21,"Weekly":85488,"Annual":4445358}
+{"Player":"Cheick Doucour\u00e9","Nation":"MLI","Position":"MF","Team":"Crystal Palace","Age":24,"Weekly":85488,"Annual":4445358}
+{"Player":"Ismaila Sarr","Nation":"SEN","Position":"MF","Team":"Crystal Palace","Age":26,"Weekly":85488,"Annual":4445358}
+{"Player":"Jefferson Lerma","Nation":"COL","Position":"MF,DF","Team":"Crystal Palace","Age":29,"Weekly":85488,"Annual":4445358}
+{"Player":"Ryan Christie","Nation":"SCO","Position":"MF","Team":"Bournemouth","Age":29,"Weekly":85488,"Annual":4445358}
+{"Player":"Ibrahima Konat\u00e9","Nation":"FRA","Position":"DF","Team":"Liverpool","Age":25,"Weekly":85488,"Annual":4445358}
+{"Player":"Jacob Ramsey","Nation":"ENG","Position":"FW,MF","Team":"Aston Villa","Age":23,"Weekly":85488,"Annual":4445358}
+{"Player":"Hwang Hee-chan","Nation":"KOR","Position":"MF,FW","Team":"Wolves","Age":28,"Weekly":85488,"Annual":4445358}
+{"Player":"Aaron Hickey","Nation":"SCO","Position":"RB","Team":"Brentford","Age":22,"Weekly":85488,"Annual":4445358}
+{"Player":"Issa Diop","Nation":"FRA","Position":"DF","Team":"Fulham","Age":27,"Weekly":85488,"Annual":4445358}
+{"Player":"Mason Holgate","Nation":"ENG","Position":"FW,DF","Team":"Everton","Age":27,"Weekly":91635,"Annual":4765042}
+{"Player":"Jonny Evans","Nation":"NIR","Position":"DF","Team":"Manchester Utd","Age":36,"Weekly":79381,"Annual":4127832}
+{"Player":"Maxwel Cornet","Nation":"CIV","Position":"FW","Team":"Southampton","Age":27,"Weekly":79381,"Annual":4127832}
+{"Player":"Luis Sinisterra","Nation":"COL","Position":"FW,MF","Team":"Bournemouth","Age":25,"Weekly":79381,"Annual":4127832}
+{"Player":"\u0141ukasz Fabia\u0144ski","Nation":"POL","Position":"GK","Team":"West Ham","Age":39,"Weekly":79381,"Annual":4127832}
+{"Player":"Adama Traor\u00e9","Nation":"ESP","Position":"FW,MF","Team":"Fulham","Age":28,"Weekly":79381,"Annual":4127832}
+{"Player":"Timothy Castagne","Nation":"BEL","Position":"DF","Team":"Fulham","Age":28,"Weekly":79381,"Annual":4127832}
+{"Player":"Nathaniel Phillips","Nation":"ENG","Position":"CB","Team":"Liverpool","Age":27,"Weekly":85090,"Annual":4424682}
+{"Player":"Sa\u0161a Luki\u0107","Nation":"SRB","Position":"MF","Team":"Fulham","Age":27,"Weekly":76939,"Annual":4000822}
+{"Player":"Giorgi Mamardashvili","Nation":"GEO","Position":null,"Team":"Liverpool","Age":24,"Weekly":80547,"Annual":4188452}
+{"Player":"Nicol\u00e1s Gonz\u00e1lez","Nation":"ESP","Position":"MF","Team":"Manchester City","Age":22,"Weekly":80547,"Annual":4188452}
+{"Player":"Adam Armstrong","Nation":"ENG","Position":"FW,MF","Team":"Southampton","Age":27,"Weekly":73275,"Annual":3810307}
+{"Player":"Jeffrey Schlupp","Nation":"GHA","Position":"MF,DF","Team":"Crystal Palace","Age":31,"Weekly":73275,"Annual":3810307}
+{"Player":"Lewis Cook","Nation":"ENG","Position":"MF,DF","Team":"Bournemouth","Age":27,"Weekly":73275,"Annual":3810307}
+{"Player":"Tyler Adams","Nation":"USA","Position":"MF","Team":"Bournemouth","Age":25,"Weekly":73275,"Annual":3810307}
+{"Player":"Matheus Cunha","Nation":"BRA","Position":"MF,FW","Team":"Wolves","Age":25,"Weekly":73275,"Annual":3810307}
+{"Player":"Jannik Vestergaard","Nation":"DEN","Position":"DF","Team":"Leicester City","Age":31,"Weekly":73275,"Annual":3810307}
+{"Player":"Miguel Almir\u00f3n","Nation":"PAR","Position":"FW","Team":"Newcastle Utd","Age":30,"Weekly":73275,"Annual":3810307}
+{"Player":"Nick Pope","Nation":"ENG","Position":"GK","Team":"Newcastle Utd","Age":32,"Weekly":73275,"Annual":3810307}
+{"Player":"Robert S\u00e1nchez","Nation":"ESP","Position":"GK","Team":"Chelsea","Age":26,"Weekly":73275,"Annual":3810307}
+{"Player":"Danny Welbeck","Nation":"ENG","Position":"FW","Team":"Brighton","Age":33,"Weekly":73275,"Annual":3810307}
+{"Player":"James Milner","Nation":"ENG","Position":"MF","Team":"Brighton","Age":38,"Weekly":73275,"Annual":3810307}
+{"Player":"Mats Wieffer","Nation":"NED","Position":"MF,DF","Team":"Brighton","Age":24,"Weekly":73275,"Annual":3810307}
+{"Player":"Emile Smith Rowe","Nation":"ENG","Position":"MF","Team":"Fulham","Age":24,"Weekly":73275,"Annual":3810307}
+{"Player":"Manor Solomon","Nation":"ISR","Position":"LW","Team":"Tottenham","Age":25,"Weekly":78545,"Annual":4084322}
+{"Player":"Jakub Kiwior","Nation":"POL","Position":"DF","Team":"Arsenal","Age":24,"Weekly":70833,"Annual":3683297}
+{"Player":"Vitaliy Mykolenko","Nation":"UKR","Position":"DF","Team":"Everton","Age":25,"Weekly":70833,"Annual":3683297}
+{"Player":"Yves Bissouma","Nation":"MLI","Position":"MF","Team":"Tottenham","Age":27,"Weekly":67169,"Annual":3492781}
+{"Player":"Chris Richards","Nation":"USA","Position":"DF","Team":"Crystal Palace","Age":24,"Weekly":67169,"Annual":3492781}
+{"Player":"Luis D\u00edaz","Nation":"COL","Position":"FW","Team":"Liverpool","Age":27,"Weekly":67169,"Annual":3492781}
+{"Player":"Boubacar Traor\u00e9","Nation":"MLI","Position":"MF","Team":"Wolves","Age":22,"Weekly":67169,"Annual":3492781}
+{"Player":"Dan Burn","Nation":"ENG","Position":"DF","Team":"Newcastle Utd","Age":32,"Weekly":67169,"Annual":3492781}
+{"Player":"Emil Krafth","Nation":"SWE","Position":"DF","Team":"Newcastle Utd","Age":29,"Weekly":67169,"Annual":3492781}
+{"Player":"Ben Mee","Nation":"ENG","Position":"DF","Team":"Brentford","Age":34,"Weekly":67169,"Annual":3492781}
+{"Player":"Adam Webster","Nation":"ENG","Position":"DF","Team":"Brighton","Age":29,"Weekly":67169,"Annual":3492781}
+{"Player":"S\u00e9amus Coleman","Nation":"IRL","Position":"DF","Team":"Everton","Age":35,"Weekly":67169,"Annual":3492781}
+{"Player":"Sander Berge","Nation":"NOR","Position":"MF","Team":"Fulham","Age":26,"Weekly":67169,"Annual":3492781}
+{"Player":"Sergio Reguil\u00f3n","Nation":"ESP","Position":"DF","Team":"Tottenham","Age":27,"Weekly":64726,"Annual":3365771}
+{"Player":"Marshall Munetsi","Nation":"ZIM","Position":"MF,FW","Team":"Wolves","Age":28,"Weekly":67123,"Annual":3490377}
+{"Player":"Jesper Lindstr\u00f8m","Nation":"DEN","Position":"FW","Team":"Everton","Age":24,"Weekly":67123,"Annual":3490377}
+{"Player":"Neto","Nation":"BRA","Position":"GK","Team":"Arsenal","Age":35,"Weekly":61063,"Annual":3175256}
+{"Player":"Alejandro Garnacho","Nation":null,"Position":"LW","Team":"Manchester Utd","Age":20,"Weekly":61063,"Annual":3175256}
+{"Player":"Djed Spence","Nation":"ENG","Position":"DF","Team":"Tottenham","Age":23,"Weekly":61063,"Annual":3175256}
+{"Player":"Micky van de Ven","Nation":"NED","Position":"DF","Team":"Tottenham","Age":23,"Weekly":61063,"Annual":3175256}
+{"Player":"Jean-Philippe Mateta","Nation":"FRA","Position":"FW","Team":"Crystal Palace","Age":27,"Weekly":61063,"Annual":3175256}
+{"Player":"Marc Gu\u00e9hi","Nation":"ENG","Position":"DF","Team":"Crystal Palace","Age":24,"Weekly":61063,"Annual":3175256}
+{"Player":"Maxence Lacroix","Nation":"FRA","Position":"DF","Team":"Crystal Palace","Age":24,"Weekly":61063,"Annual":3175256}
+{"Player":"Nathaniel Clyne","Nation":"ENG","Position":"DF,MF","Team":"Crystal Palace","Age":33,"Weekly":61063,"Annual":3175256}
+{"Player":"Trevoh Chalobah","Nation":"ENG","Position":"DF","Team":"Crystal Palace","Age":25,"Weekly":61063,"Annual":3175256}
+{"Player":"Will Hughes","Nation":"ENG","Position":"MF","Team":"Crystal Palace","Age":29,"Weekly":61063,"Annual":3175256}
+{"Player":"Antoine Semenyo","Nation":"GHA","Position":"FW","Team":"Bournemouth","Age":24,"Weekly":61063,"Annual":3175256}
+{"Player":"David Brooks","Nation":"WAL","Position":"FW,MF","Team":"Bournemouth","Age":27,"Weekly":61063,"Annual":3175256}
+{"Player":"Ilya Zabarnyi","Nation":null,"Position":"CB","Team":"Bournemouth","Age":22,"Weekly":61063,"Annual":3175256}
+{"Player":"Marcos Senesi","Nation":"ARG","Position":"DF","Team":"Bournemouth","Age":27,"Weekly":61063,"Annual":3175256}
+{"Player":"Aaron Cresswell","Nation":"ENG","Position":"DF","Team":"West Ham","Age":34,"Weekly":61063,"Annual":3175256}
+{"Player":"Konstantinos Mavropanos","Nation":"GRE","Position":"DF","Team":"West Ham","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Wataru Endo","Nation":"JPN","Position":"MF,DF","Team":"Liverpool","Age":31,"Weekly":61063,"Annual":3175256}
+{"Player":"Robin Olsen","Nation":"SWE","Position":"GK","Team":"Aston Villa","Age":34,"Weekly":61063,"Annual":3175256}
+{"Player":"Matt Doherty","Nation":"IRL","Position":"DF","Team":"Wolves","Age":32,"Weekly":61063,"Annual":3175256}
+{"Player":"Hamza Choudhury","Nation":"BAN","Position":"MF,DF","Team":"Leicester City","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Oliver Skipp","Nation":"ENG","Position":"MF","Team":"Leicester City","Age":23,"Weekly":61063,"Annual":3175256}
+{"Player":"Wout Faes","Nation":"BEL","Position":"DF","Team":"Leicester City","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Odisseas Vlachodimos","Nation":"GRE","Position":"GK","Team":"Newcastle Utd","Age":30,"Weekly":61063,"Annual":3175256}
+{"Player":"Sean Longstaff","Nation":"ENG","Position":"MF","Team":"Newcastle Utd","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Valentino Livramento","Nation":"ENG","Position":"DF","Team":"Newcastle Utd","Age":21,"Weekly":61063,"Annual":3175256}
+{"Player":"Jeremy Doku","Nation":"BEL","Position":"FW,MF","Team":"Manchester City","Age":22,"Weekly":61063,"Annual":3175256}
+{"Player":"Oscar Bobb","Nation":null,"Position":"RW","Team":"Manchester City","Age":21,"Weekly":61063,"Annual":3175256}
+{"Player":"Igor Thiago","Nation":null,"Position":"CF","Team":"Brentford","Age":23,"Weekly":61063,"Annual":3175256}
+{"Player":"Mathias Jensen","Nation":"DEN","Position":"MF","Team":"Brentford","Age":28,"Weekly":61063,"Annual":3175256}
+{"Player":"Filip J\u00f8rgensen","Nation":"DEN","Position":"GK","Team":"Chelsea","Age":22,"Weekly":61063,"Annual":3175256}
+{"Player":"Marc Guiu","Nation":null,"Position":"CF","Team":"Chelsea","Age":18,"Weekly":61063,"Annual":3175256}
+{"Player":"Noni Madueke","Nation":null,"Position":"RW","Team":"Chelsea","Age":22,"Weekly":61063,"Annual":3175256}
+{"Player":"Brajan Gruda","Nation":null,"Position":"RW","Team":"Brighton","Age":20,"Weekly":61063,"Annual":3175256}
+{"Player":"Jo\u00e3o Pedro","Nation":"BRA","Position":"FW,MF","Team":"Brighton","Age":22,"Weekly":61063,"Annual":3175256}
+{"Player":"Jo\u00ebl Veltman","Nation":"NED","Position":"DF","Team":"Brighton","Age":32,"Weekly":61063,"Annual":3175256}
+{"Player":"Matt O'Riley","Nation":"DEN","Position":"MF","Team":"Brighton","Age":23,"Weekly":61063,"Annual":3175256}
+{"Player":"Pervis Estupi\u00f1\u00e1n","Nation":"ECU","Position":"DF","Team":"Brighton","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Solly March","Nation":"ENG","Position":"FW,MF","Team":"Brighton","Age":30,"Weekly":61063,"Annual":3175256}
+{"Player":"Beto","Nation":"GNB","Position":"FW","Team":"Everton","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Orel Mangala","Nation":"BEL","Position":"MF","Team":"Everton","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Neco Williams","Nation":"WAL","Position":"DF","Team":"Nott'ham Forest","Age":23,"Weekly":61063,"Annual":3175256}
+{"Player":"Ryan Yates","Nation":"ENG","Position":"MF","Team":"Nott'ham Forest","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Taiwo Awoniyi","Nation":"NGA","Position":"FW","Team":"Nott'ham Forest","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Andreas Pereira","Nation":"BRA","Position":"MF","Team":"Fulham","Age":28,"Weekly":61063,"Annual":3175256}
+{"Player":"Antonee Robinson","Nation":"USA","Position":"DF","Team":"Fulham","Age":26,"Weekly":61063,"Annual":3175256}
+{"Player":"Harrison Reed","Nation":"ENG","Position":"MF","Team":"Fulham","Age":29,"Weekly":61063,"Annual":3175256}
+{"Player":"Kenny Tete","Nation":"NED","Position":"DF","Team":"Fulham","Age":28,"Weekly":61063,"Annual":3175256}
+{"Player":"Callum Wilson","Nation":"ENG","Position":"FW","Team":"Newcastle Utd","Age":32,"Weekly":56178,"Annual":2921235}
+{"Player":"Emmanuel Agbadou","Nation":"CIV","Position":"DF","Team":"Wolves","Age":27,"Weekly":60410,"Annual":3141339}
+{"Player":"Tom Heaton","Nation":"ENG","Position":"GK","Team":"Manchester Utd","Age":38,"Weekly":54956,"Annual":2857730}
+{"Player":"Adam Lallana","Nation":"ENG","Position":"MF","Team":"Southampton","Age":36,"Weekly":54956,"Annual":2857730}
+{"Player":"Jack Stephens","Nation":"ENG","Position":"DF","Team":"Southampton","Age":30,"Weekly":54956,"Annual":2857730}
+{"Player":"Lesley Ugochukwu","Nation":"FRA","Position":"MF","Team":"Southampton","Age":20,"Weekly":54956,"Annual":2857730}
+{"Player":"Daniel Mu\u00f1oz","Nation":"COL","Position":"DF","Team":"Crystal Palace","Age":28,"Weekly":54956,"Annual":2857730}
+{"Player":"Rob Holding","Nation":"ENG","Position":"DF","Team":"Crystal Palace","Age":28,"Weekly":54956,"Annual":2857730}
+{"Player":"Philip Billing","Nation":"DEN","Position":"MF","Team":"Bournemouth","Age":28,"Weekly":54956,"Annual":2857730}
+{"Player":"Craig Dawson","Nation":"ENG","Position":"DF","Team":"Wolves","Age":34,"Weekly":54956,"Annual":2857730}
+{"Player":"Mario Lemina","Nation":"GAB","Position":"MF,DF","Team":"Wolves","Age":30,"Weekly":54956,"Annual":2857730}
+{"Player":"Fabian Sch\u00e4r","Nation":"SUI","Position":"DF","Team":"Newcastle Utd","Age":32,"Weekly":54956,"Annual":2857730}
+{"Player":"Bryan Mbeumo","Nation":"CMR","Position":"FW","Team":"Brentford","Age":24,"Weekly":54956,"Annual":2857730}
+{"Player":"Malo Gusto","Nation":"FRA","Position":"DF","Team":"Chelsea","Age":21,"Weekly":54956,"Annual":2857730}
+{"Player":"Rom\u00e9o Lavia","Nation":null,"Position":"DM","Team":"Chelsea","Age":20,"Weekly":54956,"Annual":2857730}
+{"Player":"Igor","Nation":"BRA","Position":"DF","Team":"Brighton","Age":26,"Weekly":54956,"Annual":2857730}
+{"Player":"Iliman Ndiaye","Nation":"SEN","Position":"FW","Team":"Everton","Age":24,"Weekly":54956,"Annual":2857730}
+{"Player":"Calvin Bassey","Nation":"NGA","Position":"DF","Team":"Fulham","Age":24,"Weekly":54956,"Annual":2857730}
+{"Player":"Ryan Sessegnon","Nation":"ENG","Position":"FW,DF","Team":"Fulham","Age":24,"Weekly":54956,"Annual":2857730}
+{"Player":"Fabio Vieira","Nation":"POR","Position":"AM","Team":"Arsenal","Age":24,"Weekly":58908,"Annual":3063241}
+{"Player":"Patrick Dorgu","Nation":null,"Position":"LB","Team":"Manchester Utd","Age":20,"Weekly":53698,"Annual":2792302}
+{"Player":"Axel Disasi","Nation":"FRA","Position":"DF","Team":"Aston Villa","Age":26,"Weekly":53698,"Annual":2792302}
+{"Player":"Vitor Reis","Nation":null,"Position":"CB","Team":"Manchester City","Age":19,"Weekly":53698,"Annual":2792302}
+{"Player":"Alex McCarthy","Nation":"ENG","Position":"GK","Team":"Southampton","Age":34,"Weekly":48850,"Annual":2540205}
+{"Player":"Cameron Archer","Nation":"ENG","Position":"FW","Team":"Southampton","Age":23,"Weekly":48850,"Annual":2540205}
+{"Player":"Kamaldeen Sulemana","Nation":"GHA","Position":"FW,MF","Team":"Southampton","Age":22,"Weekly":48850,"Annual":2540205}
+{"Player":"Ryan Fraser","Nation":"SCO","Position":"FW,DF","Team":"Southampton","Age":30,"Weekly":48850,"Annual":2540205}
+{"Player":"Yukinari Sugawara","Nation":"JPN","Position":"DF,MF","Team":"Southampton","Age":24,"Weekly":48850,"Annual":2540205}
+{"Player":"Matheus Fran\u00e7a","Nation":null,"Position":"AM","Team":"Crystal Palace","Age":20,"Weekly":48850,"Annual":2540205}
+{"Player":"Matt Turner","Nation":"USA","Position":"GK","Team":"Crystal Palace","Age":30,"Weekly":48850,"Annual":2540205}
+{"Player":"Tyrick Mitchell","Nation":"ENG","Position":"DF","Team":"Crystal Palace","Age":24,"Weekly":48850,"Annual":2540205}
+{"Player":"Adam Smith","Nation":"ENG","Position":"DF","Team":"Bournemouth","Age":33,"Weekly":48850,"Annual":2540205}
+{"Player":"Alex Scott","Nation":"ENG","Position":"MF","Team":"Bournemouth","Age":20,"Weekly":48850,"Annual":2540205}
+{"Player":"Harvey Elliott","Nation":"ENG","Position":"MF,FW","Team":"Liverpool","Age":21,"Weekly":48850,"Annual":2540205}
+{"Player":"Jaden Philogene Bidace","Nation":"ENG","Position":"FW,MF","Team":"Aston Villa","Age":22,"Weekly":48850,"Annual":2540205}
+{"Player":"Jos\u00e9 S\u00e1","Nation":"POR","Position":"GK","Team":"Wolves","Age":31,"Weekly":48850,"Annual":2540205}
+{"Player":"Sam Johnstone","Nation":"ENG","Position":"GK","Team":"Wolves","Age":31,"Weekly":48850,"Annual":2540205}
+{"Player":"Danny Ward","Nation":"WAL","Position":"GK","Team":"Leicester City","Age":31,"Weekly":48850,"Annual":2540205}
+{"Player":"Jamaal Lascelles","Nation":"ENG","Position":"DF","Team":"Newcastle Utd","Age":30,"Weekly":48850,"Annual":2540205}
+{"Player":"Martin D\u00fabravka","Nation":"SVK","Position":"GK","Team":"Newcastle Utd","Age":35,"Weekly":48850,"Annual":2540205}
+{"Player":"Axel Tuanzebe","Nation":"COD","Position":"DF","Team":"Ipswich Town","Age":26,"Weekly":48850,"Annual":2540205}
+{"Player":"S\u00e1vio","Nation":"BRA","Position":"FW,MF","Team":"Manchester City","Age":20,"Weekly":48850,"Annual":2540205}
+{"Player":"Fabio Carvalho","Nation":"POR","Position":"FW,MF","Team":"Brentford","Age":21,"Weekly":48850,"Annual":2540205}
+{"Player":"Kristoffer Ajer","Nation":"NOR","Position":"DF","Team":"Brentford","Age":26,"Weekly":48850,"Annual":2540205}
+{"Player":"Yankuba Minteh","Nation":null,"Position":"RW","Team":"Brighton","Age":20,"Weekly":48850,"Annual":2540205}
+{"Player":"Armando Broja","Nation":"ALB","Position":"FW","Team":"Everton","Age":22,"Weekly":48850,"Annual":2540205}
+{"Player":"Ashley Young","Nation":"ENG","Position":"DF","Team":"Everton","Age":39,"Weekly":48850,"Annual":2540205}
+{"Player":"Elliot Anderson","Nation":"ENG","Position":"MF","Team":"Nott'ham Forest","Age":21,"Weekly":48850,"Annual":2540205}
+{"Player":"Emmanuel Dennis","Nation":"NGA","Position":"CF","Team":"Nott'ham Forest","Age":26,"Weekly":48850,"Annual":2540205}
+{"Player":"Ola Aina","Nation":"NGA","Position":"DF","Team":"Nott'ham Forest","Age":27,"Weekly":48850,"Annual":2540205}
+{"Player":"Willy Boly","Nation":"CIV","Position":"DF","Team":"Nott'ham Forest","Age":33,"Weekly":48850,"Annual":2540205}
+{"Player":"Carlos Vin\u00edcius","Nation":"BRA","Position":"MF,FW","Team":"Fulham","Age":29,"Weekly":48850,"Annual":2540205}
+{"Player":"Stefan Bajcetic","Nation":null,"Position":"DM","Team":"Liverpool","Age":20,"Weekly":52363,"Annual":2722881}
+{"Player":"Harry Souttar","Nation":"AUS","Position":"CB","Team":"Leicester City","Age":26,"Weekly":52363,"Annual":2722881}
+{"Player":"Deivid Washington","Nation":null,"Position":"CF","Team":"Chelsea","Age":19,"Weekly":52363,"Annual":2722881}
+{"Player":"Jens Cajuste","Nation":"SWE","Position":"MF","Team":"Ipswich Town","Age":24,"Weekly":46986,"Annual":2443264}
+{"Player":"Altay Bay\u0131nd\u0131r","Nation":"TUR","Position":"GK","Team":"Manchester Utd","Age":26,"Weekly":42744,"Annual":2222679}
+{"Player":"Ben Brereton","Nation":"CHI","Position":"FW","Team":"Southampton","Age":25,"Weekly":42744,"Annual":2222679}
+{"Player":"Adam Wharton","Nation":null,"Position":"DM","Team":"Crystal Palace","Age":20,"Weekly":42744,"Annual":2222679}
+{"Player":"Joel Ward","Nation":"ENG","Position":"DF","Team":"Crystal Palace","Age":34,"Weekly":42744,"Annual":2222679}
+{"Player":"Dango Ouattara","Nation":"BFA","Position":"FW","Team":"Bournemouth","Age":22,"Weekly":42744,"Annual":2222679}
+{"Player":"Marcus Tavernier","Nation":"ENG","Position":"FW,MF","Team":"Bournemouth","Age":25,"Weekly":42744,"Annual":2222679}
+{"Player":"Max Aarons","Nation":"ENG","Position":"DF","Team":"Bournemouth","Age":24,"Weekly":42744,"Annual":2222679}
+{"Player":"Vladim\u00edr Coufal","Nation":"CZE","Position":"DF","Team":"West Ham","Age":31,"Weekly":42744,"Annual":2222679}
+{"Player":"Andr\u00e9","Nation":"BRA","Position":"MF","Team":"Wolves","Age":23,"Weekly":42744,"Annual":2222679}
+{"Player":"Jean-Ricner Bellegarde","Nation":"FRA","Position":"MF,FW","Team":"Wolves","Age":26,"Weekly":42744,"Annual":2222679}
+{"Player":"Sasa Kalajdzic","Nation":"AUT","Position":"CF","Team":"Wolves","Age":27,"Weekly":42744,"Annual":2222679}
+{"Player":"Bilal El Khannouss","Nation":null,"Position":"AM","Team":"Leicester City","Age":20,"Weekly":42744,"Annual":2222679}
+{"Player":"Bobby De Cordova-Reid","Nation":"JAM","Position":"FW","Team":"Leicester City","Age":31,"Weekly":42744,"Annual":2222679}
+{"Player":"Jacob Murphy","Nation":"ENG","Position":"FW","Team":"Newcastle Utd","Age":29,"Weekly":42744,"Annual":2222679}
+{"Player":"Arijanet Muric","Nation":"KVX","Position":"GK","Team":"Ipswich Town","Age":25,"Weekly":42744,"Annual":2222679}
+{"Player":"Dara O'Shea","Nation":"IRL","Position":"DF","Team":"Ipswich Town","Age":25,"Weekly":42744,"Annual":2222679}
+{"Player":"Christian N\u00f8rgaard","Nation":"DEN","Position":"MF","Team":"Brentford","Age":30,"Weekly":42744,"Annual":2222679}
+{"Player":"Keane Lewis-Potter","Nation":"ENG","Position":"DF,FW","Team":"Brentford","Age":23,"Weekly":42744,"Annual":2222679}
+{"Player":"Rico Henry","Nation":"ENG","Position":"DF","Team":"Brentford","Age":27,"Weekly":42744,"Annual":2222679}
+{"Player":"Marcus Bettinelli","Nation":"ENG","Position":"GK","Team":"Chelsea","Age":32,"Weekly":42744,"Annual":2222679}
+{"Player":"Bart Verbruggen","Nation":"NED","Position":"GK","Team":"Brighton","Age":21,"Weekly":42744,"Annual":2222679}
+{"Player":"Tariq Lamptey","Nation":"GHA","Position":"DF","Team":"Brighton","Age":23,"Weekly":42744,"Annual":2222679}
+{"Player":"Jake O'Brien","Nation":null,"Position":"CB","Team":"Everton","Age":23,"Weekly":42744,"Annual":2222679}
+{"Player":"Jarrad Branthwaite","Nation":"ENG","Position":"DF","Team":"Everton","Age":22,"Weekly":42744,"Annual":2222679}
+{"Player":"Andrew Omobamidele","Nation":"IRL","Position":"DF","Team":"Nott'ham Forest","Age":22,"Weekly":42744,"Annual":2222679}
+{"Player":"Harry Toffolo","Nation":"ENG","Position":"DF","Team":"Nott'ham Forest","Age":28,"Weekly":42744,"Annual":2222679}
+{"Player":"Matz Sels","Nation":"BEL","Position":"GK","Team":"Nott'ham Forest","Age":32,"Weekly":42744,"Annual":2222679}
+{"Player":"Morato","Nation":"BRA","Position":"DF","Team":"Nott'ham Forest","Age":23,"Weekly":42744,"Annual":2222679}
+{"Player":"Nicol\u00e1s Dom\u00ednguez","Nation":"ARG","Position":"MF,FW","Team":"Nott'ham Forest","Age":26,"Weekly":42744,"Annual":2222679}
+{"Player":"Harry Wilson","Nation":"WAL","Position":"FW,MF","Team":"Fulham","Age":27,"Weekly":42744,"Annual":2222679}
+{"Player":"Chris Mepham","Nation":"WAL","Position":"CB","Team":"Bournemouth","Age":27,"Weekly":45818,"Annual":2382521}
+{"Player":"Evan Ferguson","Nation":"IRL","Position":"FW","Team":"West Ham","Age":19,"Weekly":40274,"Annual":2094226}
+{"Player":"Samuel Iling-Junior","Nation":"ENG","Position":"LW","Team":"Aston Villa","Age":21,"Weekly":40274,"Annual":2094226}
+{"Player":"F\u00e1bio Silva","Nation":"POR","Position":null,"Team":"Wolves","Age":22,"Weekly":40274,"Annual":2094226}
+{"Player":"Michael Kayode","Nation":null,"Position":"RB","Team":"Brentford","Age":20,"Weekly":40274,"Annual":2094226}
+{"Player":"Charlie Taylor","Nation":"ENG","Position":"DF","Team":"Southampton","Age":30,"Weekly":36638,"Annual":1905153}
+{"Player":"Flynn Downes","Nation":"ENG","Position":"MF","Team":"Southampton","Age":25,"Weekly":36638,"Annual":1905153}
+{"Player":"Paul Onuachu","Nation":"NGA","Position":"FW","Team":"Southampton","Age":30,"Weekly":36638,"Annual":1905153}
+{"Player":"Chadi Riad","Nation":null,"Position":"CB","Team":"Crystal Palace","Age":21,"Weekly":36638,"Annual":1905153}
+{"Player":"Dean Huijsen","Nation":null,"Position":"CB","Team":"Bournemouth","Age":19,"Weekly":36638,"Annual":1905153}
+{"Player":"Milos Kerkez","Nation":"HUN","Position":"DF","Team":"Bournemouth","Age":20,"Weekly":36638,"Annual":1905153}
+{"Player":"Crysencio Summerville","Nation":"NED","Position":"FW,MF","Team":"West Ham","Age":22,"Weekly":36638,"Annual":1905153}
+{"Player":"Jarell Quansah","Nation":null,"Position":"CB","Team":"Liverpool","Age":21,"Weekly":36638,"Annual":1905153}
+{"Player":"Jo\u00e3o Gomes","Nation":"BRA","Position":"MF","Team":"Wolves","Age":23,"Weekly":36638,"Annual":1905153}
+{"Player":"Santiago Bueno","Nation":"URU","Position":"DF","Team":"Wolves","Age":25,"Weekly":36638,"Annual":1905153}
+{"Player":"James Justin","Nation":"ENG","Position":"DF","Team":"Leicester City","Age":26,"Weekly":36638,"Annual":1905153}
+{"Player":"Jordan Ayew","Nation":"GHA","Position":"FW,MF","Team":"Leicester City","Age":32,"Weekly":36638,"Annual":1905153}
+{"Player":"Ben Johnson","Nation":"ENG","Position":"DF,FW","Team":"Ipswich Town","Age":24,"Weekly":36638,"Annual":1905153}
+{"Player":"Sam Morsy","Nation":"EGY","Position":"MF","Team":"Ipswich Town","Age":32,"Weekly":36638,"Annual":1905153}
+{"Player":"Scott Carson","Nation":"ENG","Position":"GK","Team":"Manchester City","Age":38,"Weekly":36638,"Annual":1905153}
+{"Player":"Ethan Pinnock","Nation":"JAM","Position":"DF","Team":"Brentford","Age":31,"Weekly":36638,"Annual":1905153}
+{"Player":"Josh Dasilva","Nation":"ENG","Position":"CM","Team":"Brentford","Age":25,"Weekly":36638,"Annual":1905153}
+{"Player":"Mark Flekken","Nation":"NED","Position":"GK","Team":"Brentford","Age":31,"Weekly":36638,"Annual":1905153}
+{"Player":"Mikkel Damsgaard","Nation":"DEN","Position":"MF,FW","Team":"Brentford","Age":24,"Weekly":36638,"Annual":1905153}
+{"Player":"Nathan Collins","Nation":"IRL","Position":"DF","Team":"Brentford","Age":23,"Weekly":36638,"Annual":1905153}
+{"Player":"Vitaly Janelt","Nation":"GER","Position":"MF","Team":"Brentford","Age":26,"Weekly":36638,"Annual":1905153}
+{"Player":"Jan Paul van Hecke","Nation":"NED","Position":"DF","Team":"Brighton","Age":24,"Weekly":36638,"Annual":1905153}
+{"Player":"Asmir Begovi\u0107","Nation":"BIH","Position":"GK","Team":"Everton","Age":37,"Weekly":36638,"Annual":1905153}
+{"Player":"James Garner","Nation":"ENG","Position":"MF,DF","Team":"Everton","Age":23,"Weekly":36638,"Annual":1905153}
+{"Player":"Youssef Chermiti","Nation":null,"Position":"CF","Team":"Everton","Age":20,"Weekly":36638,"Annual":1905153}
+{"Player":"Danilo","Nation":"BRA","Position":"MF,FW","Team":"Nott'ham Forest","Age":23,"Weekly":36638,"Annual":1905153}
+{"Player":"Murillo","Nation":null,"Position":"CB","Team":"Nott'ham Forest","Age":22,"Weekly":36638,"Annual":1905153}
+{"Player":"Ram\u00f3n Sosa","Nation":"PAR","Position":"FW,MF","Team":"Nott'ham Forest","Age":24,"Weekly":36638,"Annual":1905153}
+{"Player":"Tom Cairney","Nation":"SCO","Position":"MF","Team":"Fulham","Age":33,"Weekly":36638,"Annual":1905153}
+{"Player":"Amad Diallo","Nation":"CIV","Position":"MF,FW","Team":"Manchester Utd","Age":22,"Weekly":35228,"Annual":1831878}
+{"Player":"Nathan Patterson","Nation":"SCO","Position":"DF","Team":"Everton","Age":22,"Weekly":34195,"Annual":1778143}
+{"Player":"George Hirst","Nation":"SCO","Position":"FW","Team":"Ipswich Town","Age":25,"Weekly":33584,"Annual":1746391}
+{"Player":"Kevin Danso","Nation":"AUT","Position":"DF","Team":"Tottenham","Age":25,"Weekly":33561,"Annual":1745189}
+{"Player":"\u0110or\u0111e Petrovi\u0107","Nation":"SRB","Position":null,"Team":"Chelsea","Age":25,"Weekly":33561,"Annual":1745189}
+{"Player":"Diego G\u00f3mez","Nation":null,"Position":"CM","Team":"Brighton","Age":21,"Weekly":33561,"Annual":1745189}
+{"Player":"William Smallbone","Nation":"IRL","Position":"MF","Team":"Southampton","Age":24,"Weekly":30531,"Annual":1587628}
+{"Player":"Wilson Odobert","Nation":null,"Position":"LW","Team":"Tottenham","Age":20,"Weekly":30531,"Annual":1587628}
+{"Player":"Julian Araujo","Nation":"MEX","Position":"DF","Team":"Bournemouth","Age":22,"Weekly":30531,"Annual":1587628}
+{"Player":"Luis Guilherme","Nation":null,"Position":"RW","Team":"West Ham","Age":18,"Weekly":30531,"Annual":1587628}
+{"Player":"Rodrigo Gomes","Nation":"POR","Position":"DF,FW","Team":"Wolves","Age":21,"Weekly":30531,"Annual":1587628}
+{"Player":"Toti Gomes","Nation":"POR","Position":"DF","Team":"Wolves","Age":25,"Weekly":30531,"Annual":1587628}
+{"Player":"Caleb Okoli","Nation":"ITA","Position":"DF","Team":"Leicester City","Age":23,"Weekly":30531,"Annual":1587628}
+{"Player":"Facundo Buonanotte","Nation":null,"Position":"AM","Team":"Leicester City","Age":20,"Weekly":30531,"Annual":1587628}
+{"Player":"Victor Kristiansen","Nation":null,"Position":"LB","Team":"Leicester City","Age":21,"Weekly":30531,"Annual":1587628}
+{"Player":"Chiedozie Ogbene","Nation":"IRL","Position":"FW","Team":"Ipswich Town","Age":27,"Weekly":30531,"Annual":1587628}
+{"Player":"Jack Clarke","Nation":"ENG","Position":"FW,MF","Team":"Ipswich Town","Age":23,"Weekly":30531,"Annual":1587628}
+{"Player":"Jacob Greaves","Nation":"ENG","Position":"DF","Team":"Ipswich Town","Age":23,"Weekly":30531,"Annual":1587628}
+{"Player":"Leif Davis","Nation":"ENG","Position":"DF","Team":"Ipswich Town","Age":24,"Weekly":30531,"Annual":1587628}
+{"Player":"Sammie Szmodics","Nation":"IRL","Position":"FW,MF","Team":"Ipswich Town","Age":28,"Weekly":30531,"Annual":1587628}
+{"Player":"Rico Lewis","Nation":null,"Position":"RB","Team":"Manchester City","Age":20,"Weekly":30531,"Annual":1587628}
+{"Player":"Gustavo Nunes","Nation":null,"Position":"LW","Team":"Brentford","Age":19,"Weekly":30531,"Annual":1587628}
+{"Player":"Yoane Wissa","Nation":"COD","Position":"FW","Team":"Brentford","Age":27,"Weekly":30531,"Annual":1587628}
+{"Player":"Renato Veiga","Nation":null,"Position":"LB","Team":"Chelsea","Age":21,"Weekly":30531,"Annual":1587628}
+{"Player":"Dwight McNeil","Nation":"ENG","Position":"MF,FW","Team":"Everton","Age":24,"Weekly":30531,"Annual":1587628}
+{"Player":"Anthony Elanga","Nation":"SWE","Position":"FW,MF","Team":"Nott'ham Forest","Age":22,"Weekly":30531,"Annual":1587628}
+{"Player":"Jota Silva","Nation":"POR","Position":"FW,MF","Team":"Nott'ham Forest","Age":24,"Weekly":30531,"Annual":1587628}
+{"Player":"Jorge Cuenca","Nation":"ESP","Position":"DF","Team":"Fulham","Age":24,"Weekly":30531,"Annual":1587628}
+{"Player":"Jaidon Anthony","Nation":"ENG","Position":"FW,MF","Team":"Bournemouth","Age":24,"Weekly":32727,"Annual":1701801}
+{"Player":"Isaac Hayden","Nation":"ENG","Position":"DM","Team":"Newcastle Utd","Age":29,"Weekly":26868,"Annual":1397113}
+{"Player":"Anton\u00edn Kinsk\u00fd","Nation":null,"Position":"GK","Team":"Tottenham","Age":21,"Weekly":26849,"Annual":1396151}
+{"Player":"Nayef Aguerd","Nation":"MAR","Position":null,"Team":"West Ham","Age":28,"Weekly":26849,"Annual":1396151}
+{"Player":"Abdukodir Khusanov","Nation":null,"Position":"CB","Team":"Manchester City","Age":20,"Weekly":26849,"Annual":1396151}
+{"Player":"Bashir Humphreys","Nation":null,"Position":"CB","Team":"Chelsea","Age":21,"Weekly":26849,"Annual":1396151}
+{"Player":"Carlos Alcaraz","Nation":"ARG","Position":"FW,MF","Team":"Everton","Age":21,"Weekly":26849,"Annual":1396151}
+{"Player":"Kobbie Mainoo","Nation":null,"Position":"CM","Team":"Manchester Utd","Age":19,"Weekly":24425,"Annual":1270102}
+{"Player":"Gavin Bazunu","Nation":"IRL","Position":"GK","Team":"Southampton","Age":22,"Weekly":24425,"Annual":1270102}
+{"Player":"Kyle Walker-Peters","Nation":"ENG","Position":"DF","Team":"Southampton","Age":27,"Weekly":24425,"Annual":1270102}
+{"Player":"Mateus Fernandes","Nation":null,"Position":"CM","Team":"Southampton","Age":20,"Weekly":24425,"Annual":1270102}
+{"Player":"Ross Stewart","Nation":"SCO","Position":"FW","Team":"Southampton","Age":28,"Weekly":24425,"Annual":1270102}
+{"Player":"Mark Travers","Nation":"IRL","Position":"GK","Team":"Bournemouth","Age":25,"Weekly":24425,"Annual":1270102}
+{"Player":"Jean-Clair Todibo","Nation":"FRA","Position":"DF","Team":"West Ham","Age":24,"Weekly":24425,"Annual":1270102}
+{"Player":"Kosta Nedeljkovic","Nation":null,"Position":"RB","Team":"Aston Villa","Age":18,"Weekly":24425,"Annual":1270102}
+{"Player":"Carlos Forbs","Nation":null,"Position":"LW","Team":"Wolves","Age":20,"Weekly":24425,"Annual":1270102}
+{"Player":"Daniel Bentley","Nation":"ENG","Position":"GK","Team":"Wolves","Age":31,"Weekly":24425,"Annual":1270102}
+{"Player":"Daniel Iversen","Nation":"DEN","Position":"GK","Team":"Leicester City","Age":27,"Weekly":24425,"Annual":1270102}
+{"Player":"William Osula","Nation":null,"Position":"CF","Team":"Newcastle Utd","Age":21,"Weekly":24425,"Annual":1270102}
+{"Player":"Christian Walton","Nation":"ENG","Position":"GK","Team":"Ipswich Town","Age":28,"Weekly":24425,"Annual":1270102}
+{"Player":"Liam Delap","Nation":null,"Position":"CF","Team":"Ipswich Town","Age":21,"Weekly":24425,"Annual":1270102}
+{"Player":"Mads Roerslev","Nation":"DEN","Position":"DF","Team":"Brentford","Age":25,"Weekly":24425,"Annual":1270102}
+{"Player":"Sepp van den Berg","Nation":"NED","Position":"DF","Team":"Brentford","Age":22,"Weekly":24425,"Annual":1270102}
+{"Player":"Jason Steele","Nation":"ENG","Position":"GK","Team":"Brighton","Age":33,"Weekly":24425,"Annual":1270102}
+{"Player":"Tim Iroegbunam","Nation":null,"Position":"CM","Team":"Everton","Age":21,"Weekly":24425,"Annual":1270102}
+{"Player":"Issa Kabor\u00e9","Nation":"BFA","Position":"DF,MF","Team":"Manchester City","Age":23,"Weekly":26182,"Annual":1361441}
+{"Player":"Jeremy Sarmiento","Nation":"ECU","Position":"MF","Team":"Brighton","Age":22,"Weekly":26182,"Annual":1361441}
+{"Player":"Albert Gr\u00f8nbaek","Nation":null,"Position":"CM","Team":"Southampton","Age":23,"Weekly":24164,"Annual":1256536}
+{"Player":"Chido Obi-Martin","Nation":null,"Position":"CF","Team":"Manchester Utd","Age":17,"Weekly":20137,"Annual":1047113}
+{"Player":"Welington","Nation":"BRA","Position":"DF,MF","Team":"Southampton","Age":23,"Weekly":20137,"Annual":1047113}
+{"Player":"Romain Esse","Nation":null,"Position":"AM","Team":"Crystal Palace","Age":19,"Weekly":20137,"Annual":1047113}
+{"Player":"Hamed Junior Traor\u00e8","Nation":"CIV","Position":"FW,MF","Team":"Bournemouth","Age":24,"Weekly":20137,"Annual":1047113}
+{"Player":"Julio Soler","Nation":null,"Position":"LB","Team":"Bournemouth","Age":19,"Weekly":20137,"Annual":1047113}
+{"Player":"Andr\u00e9s Garc\u00eda","Nation":null,"Position":"RB","Team":"Aston Villa","Age":21,"Weekly":20137,"Annual":1047113}
+{"Player":"Enzo Barrenechea","Nation":null,"Position":null,"Team":"Aston Villa","Age":23,"Weekly":20137,"Annual":1047113}
+{"Player":"Ki-Jana Hoever","Nation":"NED","Position":null,"Team":"Wolves","Age":23,"Weekly":20137,"Annual":1047113}
+{"Player":"Nasser Djiga","Nation":"BFA","Position":"DF","Team":"Wolves","Age":21,"Weekly":20137,"Annual":1047113}
+{"Player":"Woyo Coulibaly","Nation":"FRA","Position":"DF","Team":"Leicester City","Age":25,"Weekly":20137,"Annual":1047113}
+{"Player":"Julio Enciso","Nation":"PAR","Position":"MF,FW","Team":"Ipswich Town","Age":20,"Weekly":20137,"Annual":1047113}
+{"Player":"Christian McFarlane","Nation":null,"Position":"LB","Team":"Manchester City","Age":18,"Weekly":20137,"Annual":1047113}
+{"Player":"Claudio Echeverri","Nation":null,"Position":"AM","Team":"Manchester City","Age":19,"Weekly":20137,"Annual":1047113}
+{"Player":"Aar\u00f3n Anselmino","Nation":null,"Position":"CB","Team":"Chelsea","Age":19,"Weekly":20137,"Annual":1047113}
+{"Player":"Andrey Santos","Nation":null,"Position":null,"Team":"Chelsea","Age":20,"Weekly":20137,"Annual":1047113}
+{"Player":"Eiran Cashin","Nation":"IRL","Position":"DF","Team":"Brighton","Age":22,"Weekly":20137,"Annual":1047113}
+{"Player":"Armel Bella Kotchap","Nation":"GER","Position":"DF","Team":"Southampton","Age":22,"Weekly":18319,"Annual":952577}
+{"Player":"Juan Larios","Nation":null,"Position":"LB","Team":"Southampton","Age":21,"Weekly":18319,"Annual":952577}
+{"Player":"Nathan Wood","Nation":null,"Position":"CB","Team":"Southampton","Age":22,"Weekly":18319,"Annual":952577}
+{"Player":"Ronnie Edwards","Nation":"ENG","Position":"DF","Team":"Southampton","Age":21,"Weekly":18319,"Annual":952577}
+{"Player":"Ryan Manning","Nation":"IRL","Position":"DF,MF","Team":"Southampton","Age":28,"Weekly":18319,"Annual":952577}
+{"Player":"Samuel Edozie","Nation":null,"Position":"LW","Team":"Southampton","Age":22,"Weekly":18319,"Annual":952577}
+{"Player":"Brandon Austin","Nation":"ENG","Position":"GK","Team":"Tottenham","Age":25,"Weekly":18319,"Annual":952577}
+{"Player":"Lucas Bergvall","Nation":null,"Position":"AM","Team":"Tottenham","Age":18,"Weekly":18319,"Annual":952577}
+{"Player":"Enes \u00dcnal","Nation":"TUR","Position":"FW,MF","Team":"Bournemouth","Age":27,"Weekly":18319,"Annual":952577}
+{"Player":"Wes Foderingham","Nation":"ENG","Position":"GK","Team":"West Ham","Age":33,"Weekly":18319,"Annual":952577}
+{"Player":"Curtis Jones","Nation":"ENG","Position":"MF,DF","Team":"Liverpool","Age":23,"Weekly":18319,"Annual":952577}
+{"Player":"J\u00f8rgen Strand Larsen","Nation":"NOR","Position":"FW","Team":"Wolves","Age":24,"Weekly":18319,"Annual":952577}
+{"Player":"Luke Cundle","Nation":"ENG","Position":"MF","Team":"Wolves","Age":22,"Weekly":18319,"Annual":952577}
+{"Player":"Pedro Lima","Nation":null,"Position":"RB","Team":"Wolves","Age":18,"Weekly":18319,"Annual":952577}
+{"Player":"Kasey McAteer","Nation":"IRL","Position":"FW,MF","Team":"Leicester City","Age":22,"Weekly":18319,"Annual":952577}
+{"Player":"Luke Thomas","Nation":"ENG","Position":"DF","Team":"Leicester City","Age":23,"Weekly":18319,"Annual":952577}
+{"Player":"Conor Chaplin","Nation":"ENG","Position":"MF,FW","Team":"Ipswich Town","Age":27,"Weekly":18319,"Annual":952577}
+{"Player":"Conor Townsend","Nation":"ENG","Position":"DF","Team":"Ipswich Town","Age":31,"Weekly":18319,"Annual":952577}
+{"Player":"James McAtee","Nation":null,"Position":"CM","Team":"Manchester City","Age":21,"Weekly":18319,"Annual":952577}
+{"Player":"Jayden Meghoma","Nation":null,"Position":"LB","Team":"Brentford","Age":18,"Weekly":18319,"Annual":952577}
+{"Player":"Yunus Emre Konak","Nation":null,"Position":"DM","Team":"Brentford","Age":19,"Weekly":18319,"Annual":952577}
+{"Player":"Carlos Miguel","Nation":"BRA","Position":"GK","Team":"Nott'ham Forest","Age":25,"Weekly":18319,"Annual":952577}
+{"Player":"Ashley Phillips","Nation":null,"Position":"CB","Team":"Tottenham","Age":19,"Weekly":19636,"Annual":1021080}
+{"Player":"Ben Doak","Nation":null,"Position":"RW","Team":"Liverpool","Age":19,"Weekly":19636,"Annual":1021080}
+{"Player":"Lewis O'Brien","Nation":"ENG","Position":"CM","Team":"Nott'ham Forest","Age":26,"Weekly":19636,"Annual":1021080}
+{"Player":"Enso Gonz\u00e1lez","Nation":null,"Position":"LW","Team":"Wolves","Age":19,"Weekly":15266,"Annual":793814}
+{"Player":"Carlos Baleba","Nation":null,"Position":"DM","Team":"Brighton","Age":21,"Weekly":15266,"Annual":793814}
+{"Player":"Simon Adingra","Nation":"CIV","Position":"FW,MF","Team":"Brighton","Age":22,"Weekly":15266,"Annual":793814}
+{"Player":"Luke Harris","Nation":null,"Position":"AM","Team":"Fulham","Age":19,"Weekly":16363,"Annual":850900}
+{"Player":"Alex Palmer","Nation":"ENG","Position":"GK","Team":"Ipswich Town","Age":27,"Weekly":16109,"Annual":837690}
+{"Player":"Naouirou Ahamada","Nation":"FRA","Position":"MF","Team":"Crystal Palace","Age":22,"Weekly":13425,"Annual":698075}
+{"Player":"Michael Olakigbe","Nation":null,"Position":"RW","Team":"Brentford","Age":20,"Weekly":13425,"Annual":698075}
+{"Player":"Valent\u00edn Barco","Nation":"ARG","Position":"MF","Team":"Brighton","Age":20,"Weekly":13425,"Annual":698075}
+{"Player":"Wayne Hennessey","Nation":"WAL","Position":"GK","Team":"Nott'ham Forest","Age":37,"Weekly":13425,"Annual":698075}
+{"Player":"James Bree","Nation":"ENG","Position":"DF","Team":"Southampton","Age":26,"Weekly":12213,"Annual":635051}
+{"Player":"Joe Lumley","Nation":"ENG","Position":"GK","Team":"Southampton","Age":29,"Weekly":12213,"Annual":635051}
+{"Player":"Caoimh\u00edn Kelleher","Nation":"IRL","Position":"GK","Team":"Liverpool","Age":25,"Weekly":12213,"Annual":635051}
+{"Player":"Conor Bradley","Nation":"NIR","Position":"DF","Team":"Liverpool","Age":21,"Weekly":12213,"Annual":635051}
+{"Player":"Joe Gauci","Nation":null,"Position":"GK","Team":"Aston Villa","Age":24,"Weekly":12213,"Annual":635051}
+{"Player":"Kortney Hause","Nation":"ENG","Position":"CB","Team":"Aston Villa","Age":29,"Weekly":12213,"Annual":635051}
+{"Player":"Rayan A\u00eft-Nouri","Nation":"ALG","Position":"DF","Team":"Wolves","Age":23,"Weekly":12213,"Annual":635051}
+{"Player":"Tom King","Nation":"WAL","Position":"GK","Team":"Wolves","Age":29,"Weekly":12213,"Annual":635051}
+{"Player":"Tommy Doyle","Nation":"ENG","Position":"MF","Team":"Wolves","Age":22,"Weekly":12213,"Annual":635051}
+{"Player":"Issahaku Fatawu","Nation":null,"Position":"RW","Team":"Leicester City","Age":20,"Weekly":12213,"Annual":635051}
+{"Player":"Jakub Stolarczyk","Nation":null,"Position":"GK","Team":"Leicester City","Age":24,"Weekly":12213,"Annual":635051}
+{"Player":"Mads Hermansen","Nation":null,"Position":"GK","Team":"Leicester City","Age":24,"Weekly":12213,"Annual":635051}
+{"Player":"Stephy Mavididi","Nation":"ENG","Position":"FW","Team":"Leicester City","Age":26,"Weekly":12213,"Annual":635051}
+{"Player":"Mark Gillespie","Nation":"ENG","Position":"GK","Team":"Newcastle Utd","Age":32,"Weekly":12213,"Annual":635051}
+{"Player":"Ali Al Hamadi","Nation":"IRQ","Position":"FW","Team":"Ipswich Town","Age":22,"Weekly":12213,"Annual":635051}
+{"Player":"Harry Clarke","Nation":null,"Position":"RB","Team":"Ipswich Town","Age":23,"Weekly":12213,"Annual":635051}
+{"Player":"Jack Taylor","Nation":"IRL","Position":"MF","Team":"Ipswich Town","Age":26,"Weekly":12213,"Annual":635051}
+{"Player":"Massimo Luongo","Nation":"AUS","Position":"MF","Team":"Ipswich Town","Age":31,"Weekly":12213,"Annual":635051}
+{"Player":"Wes Burns","Nation":"WAL","Position":"FW,DF","Team":"Ipswich Town","Age":29,"Weekly":12213,"Annual":635051}
+{"Player":"H\u00e1kon Rafn Valdimarsson","Nation":null,"Position":"GK","Team":"Brentford","Age":22,"Weekly":12213,"Annual":635051}
+{"Player":"Kevin Schade","Nation":"GER","Position":"FW","Team":"Brentford","Age":22,"Weekly":12213,"Annual":635051}
+{"Player":"Jack Hinshelwood","Nation":null,"Position":"RB","Team":"Brighton","Age":19,"Weekly":12213,"Annual":635051}
+{"Player":"Jakub Moder","Nation":"POL","Position":"MF","Team":"Brighton","Age":25,"Weekly":12213,"Annual":635051}
+{"Player":"Steven Benda","Nation":"GER","Position":"GK","Team":"Fulham","Age":25,"Weekly":12213,"Annual":635051}
+{"Player":"Joe Whitworth","Nation":null,"Position":"GK","Team":"Crystal Palace","Age":20,"Weekly":13091,"Annual":680720}
+{"Player":"Callum Marshall","Nation":null,"Position":"CF","Team":"West Ham","Age":20,"Weekly":13091,"Annual":680720}
+{"Player":"Rhys Williams","Nation":"ENG","Position":"CB","Team":"Liverpool","Age":24,"Weekly":13091,"Annual":680720}
+{"Player":"Kaine Kesler","Nation":null,"Position":"RB","Team":"Aston Villa","Age":22,"Weekly":13091,"Annual":680720}
+{"Player":"Lino Sousa","Nation":null,"Position":"LB","Team":"Aston Villa","Age":20,"Weekly":13091,"Annual":680720}
+{"Player":"Hugo Bueno","Nation":null,"Position":"LB","Team":"Wolves","Age":22,"Weekly":13091,"Annual":680720}
+{"Player":"Harrison Ashby","Nation":null,"Position":"RB","Team":"Newcastle Utd","Age":23,"Weekly":13091,"Annual":680720}
+{"Player":"Tom McGill","Nation":null,"Position":"GK","Team":"Brighton","Age":25,"Weekly":13091,"Annual":680720}
+{"Player":"Jonathan Panzo","Nation":"ENG","Position":"CB","Team":"Nott'ham Forest","Age":24,"Weekly":13091,"Annual":680720}
+{"Player":"Ethan Wheatley","Nation":null,"Position":"CF","Team":"Manchester Utd","Age":19,"Weekly":12082,"Annual":628268}
+{"Player":"Joachim Kayi Sanda","Nation":null,"Position":"CB","Team":"Southampton","Age":18,"Weekly":10740,"Annual":558460}
+{"Player":"Tyler Morton","Nation":null,"Position":"DM","Team":"Liverpool","Age":22,"Weekly":10740,"Annual":558460}
+{"Player":"Lamare Bogarde","Nation":null,"Position":"CB","Team":"Aston Villa","Age":21,"Weekly":9770,"Annual":508041}
+{"Player":"Bastien Meupiyou","Nation":null,"Position":"CB","Team":"Wolves","Age":18,"Weekly":9770,"Annual":508041}
+{"Player":"Yerson Mosquera","Nation":"COL","Position":"DF","Team":"Wolves","Age":23,"Weekly":9770,"Annual":508041}
+{"Player":"Michael Golding","Nation":null,"Position":"CM","Team":"Leicester City","Age":18,"Weekly":9770,"Annual":508041}
+{"Player":"John Ruddy","Nation":"ENG","Position":"GK","Team":"Newcastle Utd","Age":37,"Weekly":9770,"Annual":508041}
+{"Player":"Cameron Burgess","Nation":"AUS","Position":"DF","Team":"Ipswich Town","Age":28,"Weekly":9770,"Annual":508041}
+{"Player":"Yasin Ayari","Nation":null,"Position":"CM","Team":"Brighton","Age":21,"Weekly":9770,"Annual":508041}
+{"Player":"Eric da Silva Moreira","Nation":null,"Position":"RW","Team":"Nott'ham Forest","Age":18,"Weekly":9770,"Annual":508041}
+{"Player":"Joe Rothwell","Nation":"ENG","Position":"CM","Team":"Bournemouth","Age":30,"Weekly":10473,"Annual":544576}
+{"Player":"Kuryu Matsuki","Nation":null,"Position":"AM","Team":"Southampton","Age":21,"Weekly":10068,"Annual":523557}
+{"Player":"Dane Scarlett","Nation":null,"Position":"CF","Team":"Tottenham","Age":20,"Weekly":10068,"Annual":523557}
+{"Player":"Tayo Adaramola","Nation":null,"Position":"LB","Team":"Crystal Palace","Age":21,"Weekly":10068,"Annual":523557}
+{"Player":"Tommi O'Reilly","Nation":null,"Position":"AM","Team":"Aston Villa","Age":21,"Weekly":10068,"Annual":523557}
+{"Player":"Luke Mbete","Nation":null,"Position":"CB","Team":"Manchester City","Age":21,"Weekly":10068,"Annual":523557}
+{"Player":"Tyrique George","Nation":null,"Position":"LW","Team":"Chelsea","Age":19,"Weekly":10068,"Annual":523557}
+{"Player":"Taylor Harwood-Bellis","Nation":"ENG","Position":"DF","Team":"Southampton","Age":22,"Weekly":9159,"Annual":476288}
+{"Player":"Alfie Whiteman","Nation":"ENG","Position":"GK","Team":"Tottenham","Age":25,"Weekly":9159,"Annual":476288}
+{"Player":"Remi Matthews","Nation":"ENG","Position":"GK","Team":"Crystal Palace","Age":30,"Weekly":9159,"Annual":476288}
+{"Player":"Luke Woolfenden","Nation":"ENG","Position":"DF","Team":"Ipswich Town","Age":25,"Weekly":9159,"Annual":476288}
+{"Player":"Cesare Casadei","Nation":null,"Position":"CM","Team":"Chelsea","Age":21,"Weekly":9159,"Annual":476288}
+{"Player":"Lucas Bergstr\u00f6m","Nation":"FIN","Position":"GK","Team":"Chelsea","Age":21,"Weekly":9159,"Annual":476288}
+{"Player":"Jo\u00e3o Virg\u00ednia","Nation":"POR","Position":"GK","Team":"Everton","Age":24,"Weekly":9159,"Annual":476288}
+{"Player":"Rodrigo Muniz","Nation":"BRA","Position":"FW","Team":"Fulham","Age":23,"Weekly":9159,"Annual":476288}
+{"Player":"Jesurun Rak-Sakyi","Nation":null,"Position":"RW","Team":"Crystal Palace","Age":22,"Weekly":9818,"Annual":510540}
+{"Player":"Vitezslav Jaros","Nation":null,"Position":"GK","Team":"Liverpool","Age":23,"Weekly":8549,"Annual":444536}
+{"Player":"Lewis Hall","Nation":null,"Position":"LB","Team":"Newcastle Utd","Age":20,"Weekly":8549,"Annual":444536}
+{"Player":"Josh Wilson-Esbrand","Nation":null,"Position":"LB","Team":"Manchester City","Age":21,"Weekly":8549,"Annual":444536}
+{"Player":"Matthew Cox","Nation":null,"Position":"GK","Team":"Brentford","Age":21,"Weekly":8549,"Annual":444536}
+{"Player":"Marcus Harness","Nation":"ENG","Position":"MF","Team":"Ipswich Town","Age":28,"Weekly":8308,"Annual":431996}
+{"Player":"Ethan Nwaneri","Nation":null,"Position":"AM","Team":"Arsenal","Age":17,"Weekly":8055,"Annual":418845}
+{"Player":"Jahmai Simpson-Pusey","Nation":null,"Position":"CB","Team":"Manchester City","Age":19,"Weekly":8055,"Annual":418845}
+{"Player":"Ellery Balcombe","Nation":"ENG","Position":"GK","Team":"Brentford","Age":25,"Weekly":8055,"Annual":418845}
+{"Player":"Leo Castledine","Nation":null,"Position":"AM","Team":"Chelsea","Age":19,"Weekly":8055,"Annual":418845}
+{"Player":"Nathan Broadhead","Nation":"WAL","Position":"MF,FW","Team":"Ipswich Town","Age":26,"Weekly":7328,"Annual":381031}
+{"Player":"Omari Hutchinson","Nation":null,"Position":"RW","Team":"Ipswich Town","Age":21,"Weekly":7328,"Annual":381031}
+{"Player":"Shea Charles","Nation":null,"Position":"DM","Team":"Southampton","Age":21,"Weekly":7854,"Annual":408432}
+{"Player":"Joe Hugill","Nation":null,"Position":"CF","Team":"Manchester Utd","Age":21,"Weekly":7383,"Annual":383941}
+{"Player":"Harry Amass","Nation":null,"Position":"LB","Team":"Manchester Utd","Age":17,"Weekly":6712,"Annual":349038}
+{"Player":"Tyler Fredricson","Nation":null,"Position":"CB","Team":"Manchester Utd","Age":20,"Weekly":6712,"Annual":349038}
+{"Player":"Mikey Moore","Nation":null,"Position":"LW","Team":"Tottenham","Age":17,"Weekly":6712,"Annual":349038}
+{"Player":"Min-hyeok Yang","Nation":null,"Position":"RW","Team":"Tottenham","Age":18,"Weekly":6712,"Annual":349038}
+{"Player":"Caleb Kporha","Nation":null,"Position":"RB","Team":"Crystal Palace","Age":18,"Weekly":6712,"Annual":349038}
+{"Player":"Daniel Jebbison","Nation":"ENG","Position":"FW","Team":"Bournemouth","Age":20,"Weekly":6712,"Annual":349038}
+{"Player":"Calvin Ramsay","Nation":"SCO","Position":"RB","Team":"Liverpool","Age":21,"Weekly":6712,"Annual":349038}
+{"Player":"Nigel Lonwijk","Nation":"NED","Position":"CB","Team":"Wolves","Age":22,"Weekly":6712,"Annual":349038}
+{"Player":"Daniel Gore","Nation":null,"Position":"CM","Team":"Manchester Utd","Age":19,"Weekly":6106,"Annual":317526}
+{"Player":"Toby Collyer","Nation":null,"Position":"DM","Team":"Manchester Utd","Age":20,"Weekly":6106,"Annual":317526}
+{"Player":"Samuel Amo-Ameyaw","Nation":null,"Position":"RW","Team":"Southampton","Age":18,"Weekly":6106,"Annual":317526}
+{"Player":"Tyler Dibling","Nation":null,"Position":"RW","Team":"Southampton","Age":18,"Weekly":6106,"Annual":317526}
+{"Player":"Louie Moulden","Nation":"ENG","Position":"GK","Team":"Crystal Palace","Age":22,"Weekly":6106,"Annual":317526}
+{"Player":"James Hill","Nation":"ENG","Position":"DF","Team":"Bournemouth","Age":22,"Weekly":6106,"Annual":317526}
+{"Player":"Andy Irving","Nation":"SCO","Position":"MF","Team":"West Ham","Age":24,"Weekly":6106,"Annual":317526}
+{"Player":"Garang Kuol","Nation":null,"Position":"LW","Team":"Newcastle Utd","Age":19,"Weekly":6106,"Annual":317526}
+{"Player":"Lewis Miley","Nation":null,"Position":"CM","Team":"Newcastle Utd","Age":18,"Weekly":6106,"Annual":317526}
+{"Player":"Ji-soo Kim","Nation":null,"Position":"CB","Team":"Brentford","Age":19,"Weekly":6106,"Annual":317526}
+{"Player":"Yegor Yarmolyuk","Nation":null,"Position":"AM","Team":"Brentford","Age":20,"Weekly":6106,"Annual":317526}
+{"Player":"Josh Acheampong","Nation":null,"Position":"RB","Team":"Chelsea","Age":18,"Weekly":6106,"Annual":317526}
+{"Player":"Ed Turns","Nation":null,"Position":"CB","Team":"Brighton","Age":21,"Weekly":6106,"Annual":317526}
+{"Player":"Joe Hodge","Nation":null,"Position":"DM","Team":"Wolves","Age":22,"Weekly":6545,"Annual":340360}
+{"Player":"Myles Peart-Harris","Nation":"ENG","Position":"MF","Team":"Brentford","Age":21,"Weekly":6545,"Annual":340360}
+{"Player":"Myles Lewis-Skelly","Nation":null,"Position":"LB","Team":"Arsenal","Age":18,"Weekly":5370,"Annual":279230}
+{"Player":"Ayden Heaven","Nation":null,"Position":"CB","Team":"Manchester Utd","Age":18,"Weekly":5370,"Annual":279230}
+{"Player":"Luke Plange","Nation":"ENG","Position":"CF","Team":"Crystal Palace","Age":22,"Weekly":5370,"Annual":279230}
+{"Player":"Matai Akinmboni","Nation":"USA","Position":"DF","Team":"Bournemouth","Age":17,"Weekly":5370,"Annual":279230}
+{"Player":"Mahamadou Susoho","Nation":null,"Position":"DM","Team":"Manchester City","Age":20,"Weekly":5370,"Annual":279230}
+{"Player":"Billy Crellin","Nation":null,"Position":"GK","Team":"Everton","Age":24,"Weekly":5370,"Annual":279230}
+{"Player":"Teddy Sharman-Lowe","Nation":null,"Position":"GK","Team":"Chelsea","Age":21,"Weekly":5101,"Annual":265269}
+{"Player":"Jimmy-Jay Morgan","Nation":null,"Position":"CF","Team":"Chelsea","Age":19,"Weekly":4699,"Annual":244326}
+{"Player":"Dom Ballard","Nation":null,"Position":"CF","Team":"Southampton","Age":19,"Weekly":4027,"Annual":209423}
+{"Player":"Jamie Donley","Nation":null,"Position":"SS","Team":"Tottenham","Age":20,"Weekly":4027,"Annual":209423}
+{"Player":"Justin Devenny","Nation":null,"Position":"CM","Team":"Crystal Palace","Age":21,"Weekly":4027,"Annual":209423}
+{"Player":"Kaden Rodney","Nation":null,"Position":"DM","Team":"Crystal Palace","Age":20,"Weekly":4027,"Annual":209423}
+{"Player":"Harvey Davies","Nation":null,"Position":"GK","Team":"Liverpool","Age":21,"Weekly":4027,"Annual":209423}
+{"Player":"Josh Feeney","Nation":null,"Position":"CB","Team":"Aston Villa","Age":19,"Weekly":4027,"Annual":209423}
+{"Player":"Louie Barry","Nation":"ENG","Position":"LW","Team":"Aston Villa","Age":21,"Weekly":4027,"Annual":209423}
+{"Player":"Dexter Lembikisa","Nation":null,"Position":"RB","Team":"Wolves","Age":21,"Weekly":4027,"Annual":209423}
+{"Player":"Callum Doyle","Nation":"ENG","Position":"CB","Team":"Manchester City","Age":21,"Weekly":4027,"Annual":209423}
+{"Player":"Amario Cozier-Duberry","Nation":null,"Position":"RW","Team":"Brighton","Age":19,"Weekly":4027,"Annual":209423}
+{"Player":"Samy Chouchane","Nation":null,"Position":"CM","Team":"Brighton","Age":21,"Weekly":4027,"Annual":209423}
+{"Player":"Stefanos Tzimas","Nation":null,"Position":"CF","Team":"Brighton","Age":19,"Weekly":4027,"Annual":209423}
+{"Player":"Martial Godo","Nation":null,"Position":"LW","Team":"Fulham","Age":21,"Weekly":4027,"Annual":209423}
+{"Player":"Alex Murphy","Nation":null,"Position":"LB","Team":"Newcastle Utd","Age":20,"Weekly":3664,"Annual":190515}
+{"Player":"Cieran Slicker","Nation":null,"Position":"GK","Team":"Ipswich Town","Age":21,"Weekly":3664,"Annual":190515}
+{"Player":"Paris Maghoma","Nation":null,"Position":"CM","Team":"Brentford","Age":23,"Weekly":3664,"Annual":190515}
+{"Player":"Imari Samuels","Nation":"ENG","Position":"DF","Team":"Brighton","Age":21,"Weekly":3664,"Annual":190515}
+{"Player":"Killian Cahill","Nation":null,"Position":"GK","Team":"Brighton","Age":20,"Weekly":3664,"Annual":190515}
+{"Player":"Zach Abbott","Nation":null,"Position":"CB","Team":"Nott'ham Forest","Age":18,"Weekly":3664,"Annual":190515}
+{"Player":"Carl Rushworth","Nation":"ENG","Position":"GK","Team":"Brighton","Age":23,"Weekly":3927,"Annual":204216}
+{"Player":"Will Lankshear","Nation":null,"Position":"CF","Team":"Tottenham","Age":19,"Weekly":3356,"Annual":174519}
+{"Player":"Kaelan Casey","Nation":null,"Position":"CB","Team":"West Ham","Age":20,"Weekly":3356,"Annual":174519}
+{"Player":"Kaide Gordon","Nation":null,"Position":"RW","Team":"Liverpool","Age":20,"Weekly":3356,"Annual":174519}
+{"Player":"Ben Nelson","Nation":null,"Position":"CB","Team":"Leicester City","Age":20,"Weekly":3356,"Annual":174519}
+{"Player":"Finley Burns","Nation":"ENG","Position":"CB","Team":"Manchester City","Age":21,"Weekly":3356,"Annual":174519}
+{"Player":"Alex Matos","Nation":null,"Position":"CM","Team":"Chelsea","Age":20,"Weekly":3356,"Annual":174519}
+{"Player":"Ryan Trevitt","Nation":null,"Position":"CM","Team":"Brentford","Age":21,"Weekly":3053,"Annual":158763}
+{"Player":"Chem Campbell","Nation":"WAL","Position":"AM","Team":"Wolves","Age":22,"Weekly":3273,"Annual":170180}
+{"Player":"Dominic Corness","Nation":null,"Position":"DM","Team":"Liverpool","Age":21,"Weekly":3021,"Annual":157067}
+{"Player":"Val Adedokun","Nation":null,"Position":"LB","Team":"Brentford","Age":21,"Weekly":3021,"Annual":157067}
+{"Player":"Luca Barrington","Nation":null,"Position":"LW","Team":"Brighton","Age":20,"Weekly":3021,"Annual":157067}
+{"Player":"Franco Umeh-Chibueze","Nation":null,"Position":"RW","Team":"Crystal Palace","Age":20,"Weekly":2685,"Annual":139615}
+{"Player":"Max Kinsey","Nation":null,"Position":"CB","Team":"Bournemouth","Age":20,"Weekly":2685,"Annual":139615}
+{"Player":"Silko Thomas","Nation":null,"Position":"RW","Team":"Leicester City","Age":20,"Weekly":2685,"Annual":139615}
+{"Player":"Joe White","Nation":"ENG","Position":"AM","Team":"Newcastle Utd","Age":22,"Weekly":2685,"Annual":139615}
+{"Player":"Jadel Katongo","Nation":null,"Position":"CB","Team":"Manchester City","Age":20,"Weekly":2685,"Annual":139615}
+{"Player":"Caleb Wiley","Nation":"USA","Position":"LB","Team":"Chelsea","Age":20,"Weekly":2685,"Annual":139615}
+{"Player":"Dylan Williams","Nation":null,"Position":"LB","Team":"Chelsea","Age":21,"Weekly":2685,"Annual":139615}
+{"Player":"Kamari Doyle","Nation":null,"Position":"AM","Team":"Brighton","Age":19,"Weekly":2685,"Annual":139615}
+{"Player":"Odeluga Offiah","Nation":null,"Position":"RB","Team":"Brighton","Age":22,"Weekly":2685,"Annual":139615}
+{"Player":"Josh King","Nation":null,"Position":"CM","Team":"Fulham","Age":18,"Weekly":2685,"Annual":139615}
+{"Player":"Will Dennis","Nation":"ENG","Position":"GK","Team":"Bournemouth","Age":24,"Weekly":2443,"Annual":127010}
+{"Player":"Will Dickson","Nation":null,"Position":"CF","Team":"Manchester City","Age":20,"Weekly":2416,"Annual":125654}
+{"Player":"Rhys Bennett","Nation":null,"Position":"CB","Team":"Manchester Utd","Age":21,"Weekly":2349,"Annual":122163}
+{"Player":"Owen Goodman","Nation":null,"Position":"GK","Team":"Crystal Palace","Age":21,"Weekly":2014,"Annual":104711}
+{"Player":"Freddie Potts","Nation":null,"Position":"DM","Team":"West Ham","Age":21,"Weekly":2014,"Annual":104711}
+{"Player":"Mohamadou Kant\u00e9","Nation":null,"Position":"CM","Team":"West Ham","Age":19,"Weekly":2014,"Annual":104711}
+{"Player":"Travis Patterson","Nation":null,"Position":"LB","Team":"Aston Villa","Age":19,"Weekly":2014,"Annual":104711}
+{"Player":"Francis Okoronkwo","Nation":null,"Position":"CF","Team":"Everton","Age":20,"Weekly":2014,"Annual":104711}
+{"Player":"Dale Taylor","Nation":null,"Position":"CF","Team":"Nott'ham Forest","Age":21,"Weekly":2014,"Annual":104711}
+{"Player":"Elkan Baggott","Nation":null,"Position":"CB","Team":"Ipswich Town","Age":22,"Weekly":1964,"Annual":102108}
+{"Player":"Sam Mather","Nation":null,"Position":"LW","Team":"Manchester Utd","Age":20,"Weekly":1342,"Annual":69808}
+{"Player":"Patrick Kelly","Nation":null,"Position":"DM","Team":"West Ham","Age":20,"Weekly":1342,"Annual":69808}
+{"Player":"Charlie McArthur","Nation":null,"Position":"CB","Team":"Newcastle Utd","Age":19,"Weekly":1342,"Annual":69808}
+{"Player":"Max Thompson","Nation":null,"Position":"GK","Team":"Newcastle Utd","Age":20,"Weekly":1342,"Annual":69808}
+{"Player":"Cameron Humphreys","Nation":null,"Position":"CM","Team":"Ipswich Town","Age":21,"Weekly":1309,"Annual":68072}
+{"Player":"George Abbott","Nation":null,"Position":"DM","Team":"Tottenham","Age":19,"Weekly":1007,"Annual":52356}
+{"Player":"Rico Richards","Nation":"ENG","Position":"AM","Team":"Aston Villa","Age":21,"Weekly":1007,"Annual":52356}
+{"Player":"Kobei Moore","Nation":null,"Position":"CF","Team":"Aston Villa","Age":20,"Weekly":805,"Annual":41885}
+{"Player":"Luca Stephenson","Nation":null,"Position":"DM","Team":"Liverpool","Age":21,"Weekly":537,"Annual":27923}
